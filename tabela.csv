@@ -1,0 +1,497 @@
+Ped.,Status,Data,Forma de Pag.,N�m. Parcelas,Valor parcelas,Total produtos,Valor do frete,Desconto no cupom,Total do pedido,Obs. do Pedido,Nome do cliente,Endere�o,N�mero,Complemento,Bairro,Cidade,UF,CEP,Nome Produto Princ.
+345,Entrega Confirmada,26/10/2021 11:18:31,Cart�o de Cr�dito,1,19.0,70.0,19.0,70.0,19.0,,Amanda Aparecida de Lima,Rua Jo�o Batista de Melo,58,Casa,Centro,Lagoa Dourada,MG,36345000,KIT MARATONA
+346,Entrega Confirmada,01/11/2021 22:46:41,Boleto,1,53.01,70.0,53.01,70.0,53.01,,Guilherme Bernardi,Rua 150,79,,Distrito Industrial,Frederico Westphalen,RS,98400000,KIT MARATONA
+186,Pedido Interrompido,12/12/2020 03:35:33,Cart�o de Cr�dito,3,414.41,157.7,256.71,0.0,414.41,,Elischeif Neves Crisostomo,Rua Cardeal,30,,Inhoa�ba,Rio de Janeiro,RJ,23064470,"Queijo Canastra Artesanal EspecialParmes�o Fresco -
+                                                    RedondoQueijo RockforProvolone Defumado"
+145,Entrega Confirmada,28/09/2020 14:55:53,Boleto,0,158.75,138.0,20.75,0.0,158.75,,Casa Manzano,Rua Gra�na,189,,Vila Uberabinha,S�o Paulo,SP,04514000,Geleia de Pimenta
+270,Entrega Confirmada,17/05/2021 12:37:32,Boleto,0,285.26,214.5,70.76,0.0,285.26,,-,Rua Guatemala,65,,Santa Luzia,S�o Gon�alo,RJ,24722405,Queijo Canastra Artesanal Meia Cura
+300,Entrega Confirmada,14/07/2021 18:31:57,Cart�o de Cr�dito,2,53.57,74.1,33.04,0.0,107.14,,albert carel severien,Rua da Alegria,109,ap.114,Floradas de S�o Jos�,S�o Jos� dos Campos,SP,12230086,"Queijo Canastra Artesanal Meia CuraKit Provolone c/ Salame -
+                                                    Vermelho, Defumado e Temperado"
+359,Pedido Interrompido,27/12/2021 21:17:40,Cart�o de Cr�dito,1,197.23,146.7,50.53,0.0,197.23,,allexandra pingret,Rua Tapera�u Preto,51,,Jardim San Rafael II,Arapongas,PR,86703525,Queijo Canastra Artesanal Meia Cura
+390,Pedido Interrompido,24/02/2022 20:42:22,N�o pago,0,0.0,48.9,28.66,0.0,77.56,,Alvaro Rodrigues dos Santos filho,Travessa Vinte e Seis,4,Casa,Barro Vermelho,Belford Roxo,RJ,26115788,Queijo Canastra Artesanal Meia Cura
+208,Pedido Interrompido,29/12/2020 00:43:50,Cart�o de Cr�dito,2,123.3,71.4,51.9,0.0,123.3,,Andressa V De Carvalho,Rua Zamora,80,Port�o Marrom,Parque Independ�ncia,S�o Paulo,SP,0588039,Queijo Canastra Artesanal Meia Cura
+401,Pedido a Enviar - Pago,21/03/2022 12:19:32,Cart�o de Cr�dito,3,471.57,829.75,584.95,0.0,1414.7,,ANDREZA SILVA DE OLIVEIRA,Caminho do Vai-Vem,154,R ROJETADA C LT3 C4,Campo Grande,Rio de Janeiro,RJ,23017440,"Queijo Canastra Artesanal EspecialQueijo Canastra Artesanal Meia
+                                                    CuraDireto de Minas - Caf� Especial (Pontua��o: 84)Kit
+                                                    Comida de ButecoKit Provoleto"
+437,Entrega Confirmada,15/07/2022 22:54:58,Cart�o de Cr�dito,3,83.48,179.7,70.75,0.0,250.45,,Anselmo Brito dos Santos,Rua Carlos Silveira Martins Pacheco,55,Apto.302 torre J,Cristo Redentor,Porto Alegre,RS,91350300,Queijo Canastra Artesanal Meia Cura
+235,Entrega Confirmada,20/03/2021 12:41:38,Cart�o de Cr�dito,3,167.15,122.8,44.35,0.0,167.15,Rua do Corpo de Bombeiros,Antonio Marques de Jesus,Rua Ant�nio Bas�lio,348,402,Tijuca,Rio de Janeiro,RJ,20511190,"Queijo Canastra Artesanal Meia CuraArtesanal - Queijos Canastra
+                                                    Kit Duas Pe�as"
+246,Pedido Interrompido,09/04/2021 20:39:10,Boleto,0,179.23,128.7,50.53,0.0,179.23,Pr�dio do pascoal procurar ene ou rose,Benedito Jos� Souza santana,Rua do Campo Largo,9,Pr�dio do pascoal.,Saboeiro,Salvador,BA,41180115,Queijo Canastra Artesanal Meia Cura
+243,Entrega Confirmada,06/04/2021 19:35:57,Cart�o de Cr�dito,1,139.23,107.35,31.88,0.0,139.23,"O destinat�rio � Caio Pimentel. Se for poss�vel gostaria de um
+                                                    bilhete escrito ""Feliz anivers�rio"" .",Bia Pimentel,Avenida Doutor Guilhermino de Oliveira,689,"Ap. 401, Bloco A",Novo Eldorado,Contagem,MG,32341290,"Queijo Canastra Artesanal Meia CuraProvolone VermelhoDireto
+                                                    de Minas - Caf� Torrado/Mo�do (Pontua��o: 84)"
+420,Pedido Interrompido,11/06/2022 18:38:59,PIX,0,120.79,87.75,33.04,0.0,120.79,,CRISTIANO JOS� SAMPAIO NETO,Rua Cardoso Moreira,118,,Parque Turf Club,Campos dos Goytacazes,RJ,28013095,Queijo Canastra Artesanal Meia CuraKit Provoleto
+320,Pedido Interrompido,30/08/2021 22:12:09,N�o pago,0,0.0,214.5,70.76,0.0,285.26,,Denisvaldo Silva Hip�lito,Rua Jo�o Izidio de Camargo,268,,Roc�o,Canan�ia,SP,11990000,Queijo Canastra Artesanal Meia Cura
+259,Pedido Interrompido,29/04/2021 21:41:17,Cart�o de Cr�dito,2,195.64,258.7,132.58,0.0,391.28,,Edmaria Rodrigues Araujo,Rua Elp�dio Junior Rubin Stefanello,1935,,Conjunto Residencial Monte Carlo,Dourados,MS,79823820,"Queijo Canastra do IVAIR Super Ouro TardeQueijo Canastra
+                                                    Artesanal Meia Cura"
+237,Pedido Interrompido,22/03/2021 15:33:27,Boleto,0,185.59,156.69,28.9,0.0,185.59,,Elaine Reis do Carmo Christofoletti,Rua Argila,59,Casa,Cidade Nova,Igarap�,MG,32900000,"Queijo Canastra Artesanal Meia CuraDireto de Minas - Caf�
+                                                    Especial (Pontua��o: 84)Artesanal - Queijos Canastra Kit Duas
+                                                    Pe�as"
+341,Pedido Interrompido,11/10/2021 16:58:22,N�o pago,0,0.0,95.4,70.76,0.0,166.16,,Habib Salomon Dumet Montoya,Rua Infante Dom Henrique,21,Sobrado,Vila Guimar�es,Nova Igua�u,RJ,26088105,Queijo Canastra Artesanal Meia Cura
+304,Pedido Interrompido,05/08/2021 12:33:43,N�o pago,0,0.0,151.6,81.68,0.0,233.28,,H�lio Vargas de Sousa,Rua Eduardo Germano Schutz,93,Casa,Praia de Fora,Palho�a,SC,88138380,Queijo Canastra Artesanal Meia CuraParmes�o Fresco - Redondo
+406,Pedido Interrompido,03/04/2022 03:48:22,Cart�o de Cr�dito,1,93.89,64.88,29.01,0.0,93.89,,jando utilidades,Rua Benedito Ferreira da Silva Sobrinho,120,,Nossa Senhora de Guadalupe,Pouso Alegre,MG,37550640,Queijo Canastra Artesanal Meia Cura
+232,Pedido Interrompido,12/03/2021 21:14:53,Boleto,0,129.05,74.13,54.92,0.0,129.05,,Jean Carlos Gomes,Avenida Itavera,120,Casa vermelha parte,Belmonte,Volta Redonda,RJ,27274190,"Queijo Canastra Artesanal Meia CuraDireto de Minas - Caf�
+                                                    Torrado/Mo�do (Pontua��o: 84)"
+392,Pedido Interrompido,08/03/2022 02:35:17,Cart�o de Cr�dito,3,64.33,97.8,95.2,0.0,193.0,,Jeferson Gonzaga,Avenida Nestor Duarte,55,Casa,S�o Caetano,Salvador,BA,40391200,Queijo Canastra Artesanal Meia Cura
+404,Pedido Interrompido,31/03/2022 00:30:12,Cart�o de Cr�dito,1,82.75,48.9,33.85,0.0,82.75,,Joao Paulo Rodrigues,Rua L�cio Bento Cardoso,60,,Centro,Alagoinhas,BA,48000057,Queijo Canastra Artesanal Meia Cura
+250,Pedido Interrompido,16/04/2021 20:09:01,Cart�o de Cr�dito,3,307.26,236.5,70.76,0.0,307.26,,Jonattas bransford trajano,Rua Mar�lia,543,,Companhia Fazenda Bel�m,Franco da Rocha,SP,07803230,"Queijo Canastra Artesanal EspecialQueijo Canastra Artesanal Meia
+                                                    Cura"
+253,Pedido Interrompido,26/04/2021 23:00:25,Cart�o de Cr�dito,3,65.24,107.8,87.92,0.0,195.72,,JOS� ARIMATEIA DA SILVA,Rua Jo�o L�cio Marques,17,casa,Prado,Macei�,AL,57010150,"Queijo Canastra Artesanal EspecialQueijo Canastra Artesanal Meia
+                                                    Cura"
+313,Pedido Interrompido,16/08/2021 16:44:15,Cart�o de Cr�dito,3,507.91,637.6,886.14,0.0,1523.74,,Jos� carlos soares de lima,Avenida Oito,1118,Bloco 118 ap 403,Curado,Jaboat�o dos Guararapes,PE,54270070,"Queijo Canastra Artesanal Meia CuraKit Cesta Especial Direto de
+                                                    Minas"
+482,Entrega Confirmada,13/04/2023 11:55:25,PIX,0,152.84,119.8,33.04,0.0,152.84,,Jos� Nilton Pereira,Estrada Alexandre Migues Rodrigues,315,ap 704,Tombo,Guaruj�,SP,11420120,Queijo Canastra Artesanal Meia Cura
+310,Pedido Interrompido,12/08/2021 14:21:18,Cart�o de Cr�dito,2,208.05,219.8,196.3,0.0,416.1,,Josenice Soares da Silva,Rua Doutor Jo�o Marques,60,1504,Ilha do Retiro,Recife,PE,50750320,"Queijo Canastra do Johne (Metade)Kit Queijo Provoleto com Lombo
+                                                    Defumado 650gQueijo Canastra Artesanal Meia Cura"
+469,Entrega Confirmada,20/03/2023 12:09:00,PIX,0,93.75,59.9,33.85,0.0,93.75,,Lazaro Lemes,Rua Santo Inacio de Loyola,124,Apt. 904,Centro,Florianopolis,SC,88015330,Queijo Canastra Artesanal Meia Cura
+373,Entrega Confirmada,30/01/2022 01:58:27,Cart�o de Cr�dito,2,57.42,81.8,33.04,0.0,114.84,,MARCELO LEONARDO,Avenida Doutor Nelson Noronha Gustavo Filho,230,Ap. 71A Plaza,Vila Brandina,Campinas,SP,13092526,Queijo Canastra Artesanal Meia CuraParmes�o Fresco - Redondo
+219,Pedido Interrompido,13/01/2021 20:59:45,Cart�o de Cr�dito,2,394.66,203.1,191.56,0.0,394.66,,Marcelo Vieira Otoni,Rua Guimar�es Rosa,492,APTO 151,Ocian,Praia Grande,SP,11704160,"Queijo Canastra Artesanal Meia CuraArtesanal - Queijos Canastra
+                                                    Kit Duas Pe�as"
+258,Entrega Confirmada,29/04/2021 15:53:10,Boleto,0,71.56,42.9,28.66,0.0,71.56,,MARIVANIA GONZAGA GOMES,Avenida Raquel Alves Moreira,779,casa 06,Parque Santo Ant�nio,S�o Paulo,SP,05821130,Queijo Canastra Artesanal Meia Cura
+471,Pedido Interrompido,23/03/2023 11:58:51,N�o pago,0,0.0,119.8,33.04,0.0,152.84,,Patr�cia Nemer,Rua Clarice �ndio do Brasil,11,Apto 403,Botafogo,Rio de Janeiro,RJ,22230090,Queijo Canastra Artesanal Meia Cura
+302,Entrega Confirmada,20/07/2021 09:29:39,Boleto,0,514.73,280.5,234.23,0.0,514.73,,Paulo Aguinelio Gomes,Rua Diamantina Marques Luz,56,Casa,Po�o,Macei�,AL,57025170,"Queijo Canastra Artesanal EspecialQueijo Canastra Artesanal Meia
+                                                    Cura"
+360,Pedido Interrompido,27/12/2021 21:38:19,Boleto,0,182.06,113.8,68.26,0.0,182.06,,Rafael Tombini Kerber,Rua Cl�udio Jos� Backes,72,,Higien�polis,Santa Cruz do Sul,RS,96825037,"Queijo Canastra Artesanal EspecialQueijo Canastra Artesanal Meia
+                                                    Cura"
+363,Pedido Interrompido,12/01/2022 14:35:02,N�o pago,0,0.0,48.9,28.66,0.0,77.56,,ROBERTO ALVES DOURADO,SQN 410 Bloco D,305,305,Asa Norte,Bras�lia,DF,70865040,Queijo Canastra Artesanal Meia Cura
+291,Pedido Interrompido,28/06/2021 16:52:58,Cart�o de Cr�dito,1,76.75,42.9,33.85,0.0,76.75,,Rodrigo do nascimento sena,Rua Distrito Federal,41,,Central Carapina,Serra,ES,29161567,Queijo Canastra Artesanal Meia Cura
+362,Pedido Interrompido,08/01/2022 11:11:24,Boleto,2,136.56,97.8,38.76,0.0,136.56,Condominio residencial cidade jardim (Atr�s da Contauto),Rogerio de Almeida Trist�o,Rua Dez,130,19,Aribiri,Vila Velha,ES,29120575,Queijo Canastra Artesanal Meia Cura
+433,Pedido Interrompido,12/07/2022 19:47:14,Boleto,0,131.21,78.4,52.81,0.0,131.21,,Rosivaldo Oliveira,Rua da Mar�,70,Casa,Cata Preta,Santo Andr�,SP,09139040,Goiabada CremosaQueijo Canastra Artesanal Meia Cura
+450,Pedido Interrompido,31/10/2022 14:33:19,N�o pago,0,0.0,59.9,28.66,3.0,85.56,,silvia ponciano amorim,Rua Justo Azambuja,79,apto 104 / Lanai,Cambuci,S�o Paulo,SP,01518000,Queijo Canastra Artesanal Meia Cura
+230,Pedido Interrompido,04/03/2021 15:42:23,Boleto,0,108.84,75.8,33.04,0.0,108.84,,Tacito Pedroso,Rua Bra�lio Guedes,56,apto 86,Gopo�va,Guarulhos,SP,07092090,Queijo Canastra Artesanal Meia CuraParmes�o Fresco - Redondo
+448,Pedido Interrompido,28/10/2022 10:20:54,N�o pago,0,0.0,359.4,94.2,0.0,453.6,,Thiago Henrique dos Santos,Rua Elias Rodrigues Claro,444,,Jardim S�o Carlos,Sorocaba,SP,18046390,Queijo Canastra Artesanal Meia Cura
+379,Pedido Interrompido,04/02/2022 17:16:31,Boleto,0,67.9,48.9,19.0,0.0,67.9,,Wave Teste,Rua Alagoas,1314,23A,Funcion�rios,Belo Horizonte,MG,30310000,Queijo Canastra Artesanal Meia Cura
+466,Entrega Confirmada,04/03/2023 21:14:40,Boleto,0,197.26,119.8,77.46,0.0,197.26,,Yumi Sonohara,Rua Ant�nio Furlan,477,,Jardim Alvorada,Sumar�,SP,13170590,Queijo Canastra Artesanal Meia Cura
+286,Entrega Confirmada,19/06/2021 15:41:11,Boleto,0,93.56,64.9,28.66,0.0,93.56,,Corinna Pudler,Estrada de Itapecerica,2736,Bloco G2 ap 163,Vila Prel,S�o Paulo,SP,05835004,Queijo Canastra Artesanal Especial
+274,Pedido Interrompido,03/06/2021 08:20:37,N�o pago,0,0.0,64.9,19.0,0.0,83.9,,Cristiano Camilo,Rua Aristides Teixeira Duarte,312,,Calif�rnia,Florestal,MG,35690000,Queijo Canastra Artesanal Especial
+207,Pedido Interrompido,28/12/2020 18:53:16,Boleto,0,91.37,62.4,28.97,0.0,91.37,,Desirre KONTANTAS,Rua Capit�o Jo�o Ces�rio,127,32,Penha de Fran�a,S�o Paulo,SP,03603000,Queijo Canastra Artesanal Especial
+199,Entrega Confirmada,23/12/2020 17:02:03,Cart�o de Cr�dito,3,246.56,157.4,89.16,0.0,246.56,,evandro cabus,Avenida Bras�lia,812,q33 lt05,Jardim Esplanada,Aragua�na,TO,77817080,"Queijo Canastra Artesanal EspecialArtesanais da Canastra - Dois
+                                                    Queijos"
+190,Pedido Interrompido,15/12/2020 10:23:22,Cart�o de Cr�dito,1,346.02,213.6,132.42,0.0,346.02,,hercules godot,Estrada do Aur�,104,res. bem viver rua c,Aur�,Ananindeua,PA,67033755,"Queijo Canastra Artesanal EspecialArtesanal - Queijos Canastra
+                                                    Kit Duas Pe�as"
+244,Pedido Interrompido,08/04/2021 21:14:57,Cart�o de Cr�dito,3,854.92,589.6,265.32,0.0,854.92,,Hugo yan marques,Rua Santa Izabel,29,,Riviera da Barra,Vila Velha,ES,29126073,"Queijo Canastra do IVAIR Bronze Ordenha Manh�Queijo Canastra
+                                                    Artesanal Especial"
+183,Entrega Confirmada,10/12/2020 09:24:21,Cart�o de Cr�dito,1,96.68,62.4,34.28,0.0,96.68,,Jean Nunes Caitano,Rua Agrimensor Carlos Hasselmann,480,,Fazenda Velha,Arauc�ria,PR,83703330,Queijo Canastra Artesanal Especial
+436,Pedido Interrompido,15/07/2022 22:18:47,N�o pago,0,0.0,74.9,28.66,0.0,103.56,,Jorge Magalhais Gomes,Rua Marc�lio Dias,281,Apto 401,Jardim Vinte e Cinco de Agosto,Duque de Caxias,RJ,25075200,Queijo Canastra Artesanal Especial
+467,Pedido Interrompido,07/03/2023 03:20:04,Cart�o de Cr�dito,1,103.56,74.9,28.66,0.0,103.56,,JOSE CRISTIANO SILVA FARIAS,Rua Heitor Villa Lobos,270,viela,Vila Jurema,Ferraz de Vasconcelos,SP,08542030,Queijo Canastra Artesanal Especial
+446,Pedido a Enviar - Pago,16/10/2022 17:17:00,Cart�o de Cr�dito,1,108.75,74.9,33.85,0.0,108.75,,Marcos Roberto dos Santos,Rua 106 C,68,Casa,Centro,Itapema,SC,88220000,Queijo Canastra Artesanal Especial
+272,Pedido Interrompido,28/05/2021 16:03:54,Cart�o de Cr�dito,1,146.95,64.9,82.05,0.0,146.95,,Maria Liliane Dos Santos Silva,Rua Elp�dio Junior Rubin Stefanello,1935,,Conjunto Residencial Monte Carlo,Dourados,MS,79823820,Queijo Canastra Artesanal Especial
+391,Pedido Interrompido,25/02/2022 16:31:08,Cart�o de Cr�dito,1,93.75,59.9,33.85,0.0,93.75,,Mauricio Queiroz,Avenida ministro oliveira brito,023,Casa,Centro,Abar�,BA,48680000,Queijo Canastra Artesanal Especial
+257,Pedido Interrompido,28/04/2021 23:02:58,Cart�o de Cr�dito,1,93.56,64.9,28.66,0.0,93.56,,Paulo S�rgio de souza,Maria Margarida pascoal,49,,Jardim exelcior,Porto Feliz,SP,18540000,Queijo Canastra Artesanal Especial
+372,Pedido Interrompido,27/01/2022 14:15:18,Boleto,0,83.9,64.9,19.0,0.0,83.9,,Rodrigo Cansado,,,,,,,0,Queijo Canastra Artesanal Especial
+227,Pedido Interrompido,03/03/2021 19:15:14,Cart�o de Cr�dito,3,662.71,499.3,163.41,0.0,662.71,,ROGERIO MARCAL SILVA,Rua Hildebrando Oliva,608,301,Santa M�nica,Uberl�ndia,MG,38408212,"Queijo Canastra Artesanal EspecialArtesanal - Queijos Canastra
+                                                    Kit Duas Pe�as"
+213,Entrega Confirmada,07/01/2021 18:01:20,Boleto,0,362.45,277.3,85.15,0.0,362.45,,Silvia dos Santos Ara�jo silva,Pra�a presidente Dutra,56,Casa,Centro,Tabocas do Brejo Velho,BA,47760000,"Queijo Canastra do JohneQueijo Canastra Artesanal
+                                                    EspecialArtesanais da Canastra Tr�s tipos de Matura��o"
+277,Pedido Interrompido,14/06/2021 19:55:35,N�o pago,0,0.0,519.2,226.72,0.0,745.92,,Virtuosas distribui��o de alimentos e bebidas,Rua �guas Virtuosas,1155,,Parque Peruche,S�o Paulo,SP,02532011,Queijo Canastra Artesanal Especial
+97,Entrega Confirmada,22/06/2020 17:32:53,Boleto,0,162.99,95.29,67.7,0.0,162.99,,Controlar,Rua das Cores,700,201 bl 7,Vale dos Cristais,Nova Lima,MG,34008053,Lingui�a Suina c/ QueijoForofa Nina
+316,Entrega Confirmada,26/08/2021 09:25:08,Boleto,0,93.55,59.7,33.85,0.0,93.55,,ROBERTO OLIVEIRA ALMEIDA GURGEL DE SOUZA,Rua da miseric�rdia,145,ao lado mercado Poly,Jorge villas Boas,Santaluz,BA,48880000,Forofa NinaFarofa NinaFarofa Nina
+434,Pedido Interrompido,13/07/2022 12:43:38,Cart�o de Cr�dito,3,336.93,547.2,463.59,0.0,1010.79,,Orlando Silva,Rua Benedito Manteli,710,Casa,Nova Viradouro,Viradouro,SP,14740000,"Lombo Canadense com Pimenta BiquinhoDoce de Leite c/
+                                                    AmeixaDoce de Leite c/ AmendoimDoce de Leite c/
+                                                    GoiabaSalame ItalianoFarofa NinaKit Cesta Especial
+                                                    Direto de Minas"
+306,Entrega Confirmada,06/08/2021 11:37:09,Cart�o de Cr�dito,1,78.7,59.7,19.0,0.0,78.7,,Emp�rio Boa Mesa,Rua Roberto Saint Martin,140,,Centro,Piumhi,MG,37925000,Farofa Nina
+305,Entrega Confirmada,05/08/2021 12:49:35,Cart�o de Cr�dito,1,76.82,59.7,17.12,0.0,76.82,,Michelline Mendes Lima Gon�alves,Avenida Jove Soares,1569,Dep�sito de g�s,Gra�as,Ita�na,MG,35680346,Farofa Nina
+459,Pedido Interrompido,02/02/2023 16:13:13,Cart�o de Cr�dito,1,258.48,179.1,79.38,0.0,258.48,,Felipe erak Rezende,Rua das palmeiras,413,,Recanto dos ip�s2,Mandagua�u,PR,87160000,"Kit Provolone c/ Salame - Vermelho, Defumado e
+                                                    TemperadoProvolone Branco Temperado Ervas FinasDireto de
+                                                    Minas - Caf� Torrado/Mo�do (Pontua��o: 84)Mussarela Nozinho
+                                                    Pura"
+403,Pedido Interrompido,21/03/2022 15:53:01,Cart�o de Cr�dito,3,272.77,383.8,434.52,0.0,818.32,,Moises Santos Simoes,Avenida Esperan�a,067,3and,Massaranduba,Salvador,BA,40435490,"Queijo Canastra do Mauro BRONZEKit Provolone c/ Salame -
+                                                    Vermelho, Defumado e Temperado"
+442,Pedido Interrompido,28/08/2022 11:57:17,N�o pago,0,0.0,1173.5,743.22,0.0,1916.72,,NS variedades,Rua Sacramento,50,Casa,Castelo Branco,Salvador,BA,41322300,"Trancinha Defumada e TemperadaQueijo ReinoMussarela de
+                                                    B�falaBurrata de B�fala 200gChips de Provolone Recheado com
+                                                    Goiabada 350gQueijo Trufado com Salame 600gMussarela Palito
+                                                    PuraMussarela Palito TemperadaKit Provolone c/ Salame -
+                                                    Vermelho, Defumado e TemperadoMussarela Tran�a
+                                                    DefumadaMussarela Tran�a ao VinhoKit ProvoletoProvolone
+                                                    Recheado c/ Salaminho TemperadoKit Tran�as - 3 Tran�as: Pura,
+                                                    Temperada, ao Vinho"
+134,Pedido Interrompido,26/08/2020 19:07:34,N�o pago,0,0.0,103.7,109.96,0.0,213.66,,Jos� flavio MIRANDA DOS ANJOS,Rua Saldanha Marinho,97,Edf. Sol ap 304,Caixa D'�gua,Salvador,BA,40323010,"Trancinha Defumada e TemperadaQueijo Minas Frescal
+                                                    LightQueijo Estepe FracionadoKit Queijo Provoleto com Lombo
+                                                    Defumado 650g"
+166,Pedido Interrompido,03/12/2020 11:53:26,Cart�o de Cr�dito,3,653.12,322.74,330.38,0.0,653.12,,JOSE CARLOS DA SILVA,Avenida Luiz Boiteux Piazza,5749,,Cachoeira do Bom Jesus,Florian�polis,SC,88056000,"Salame ItalianoMussarela Palito TemperadaKit Cesta Direto de
+                                                    Minas Variedades"
+399,Pedido Interrompido,20/03/2022 00:52:22,Cart�o de Cr�dito,1,954.1,434.86,519.24,0.0,954.1,,Lilian Pereira De Paiva,Rua Professor Heleno Cl�udio Fragoso,594,Avenida fundos,Jardim Igua�u,Nova Igua�u,RJ,26282011,"Parmes�o Fresco - RedondoProvolone Defumado PuroDireto de
+                                                    Minas - Caf� Torrado/Mo�do (Pontua��o: 84)"
+303,Pedido Interrompido,28/07/2021 13:40:55,N�o pago,0,0.0,104.2,47.72,0.0,151.92,,Rafaela Lopes,Rua Nadir,85,Apt 166 C,Gopo�va,Guarulhos,SP,07020201,"Burrata de B�fala 200gQueijo Trufado com Salame
+                                                    600gProvolone Branco Temperado Ervas Finas"
+419,Pedido Interrompido,07/06/2022 00:47:44,N�o pago,0,0.0,31.2,29.1,0.0,60.3,,Rubens Rodrigues D. Filho,Rua Estrada Geral Linha do Chaves,000,Rural,Linha do Chaves,Angelina,SC,88460000,Provolone Defumado c/ Alho
+311,Pedido Interrompido,13/08/2021 00:26:34,Cart�o de Cr�dito,3,209.27,250.9,376.91,0.0,627.81,,Rafael de brito pessoa,Rua Doutor Jo�o Marques,60,1504,Ilha do Retiro,Recife,PE,50750320,"Chips de Provolone Recheado com Goiabada 350gQueijo Palito de
+                                                    Mussarela Temperada - 500gQueijo Trufado com Salame
+                                                    600gProvolone Vermelho"
+287,Pedido Interrompido,20/06/2021 00:26:17,Cart�o de Cr�dito,3,76.02,93.6,134.47,0.0,228.07,,Monica pessotti louzada,Rua Ant�nio Cavazzam,652,,Parque Peruche,S�o Paulo,SP,02534001,Mussarela Tran�a Temperada
+165,Pedido Interrompido,02/12/2020 13:47:55,Boleto,0,62.33,39.8,22.53,0.0,62.33,,alessandra andrade,rua 10,370,na loja casa do cons,jadete,Janu�ria,MG,39480000,Trancinha Defumada e Temperada
+167,Entrega Confirmada,03/12/2020 14:04:38,Cart�o de Cr�dito,1,114.55,62.4,52.15,0.0,114.55,,Paola Luzia Heitmann Guimar�es Lopes,Rua Vila Rica,789,ap 501,Padre Eust�quio,Belo Horizonte,MG,30720380,Requeij�o c/ Raspa
+132,Entrega Confirmada,21/08/2020 22:20:06,Cart�o de Cr�dito,2,211.26,151.4,59.86,0.0,211.26,,Andr� Martins Quintal J�nior,Avenida Padre Evaldo Feudhaus,392,Casa ao lado do corr,Centro,Guaporema,PR,87810000,Queijo Edam Inteiro
+35,Entrega Confirmada,02/12/2019 10:35:53,Cart�o de Cr�dito,2,115.08,92.49,22.59,0.0,115.08,,Antonio Vitor S Filho,Rua Nabuco de Ara�jo,139,AP 13,Boqueir�o,Santos,SP,11025010,Manteiga da Ro�aQueijo Edam Inteiro
+47,Pedido Interrompido,01/02/2020 19:39:53,Cart�o de Cr�dito,3,1140.13,658.29,481.84,0.0,1140.13,,Diego Cardoso vale,ARSO 42 Alameda 32,02,Lt 02 ap 408,Plano Diretor Sul,Palmas,TO,77015648,"Doce de Leite c/ AmendoimDoce de Leite Diet c/ CocoQueijo
+                                                    Edam Inteiro"
+115,Pedido Interrompido,21/07/2020 11:44:23,Cart�o de Cr�dito,2,687.45,328.28,359.17,0.0,687.45,,jose augusto oliveira bastos junior,Rua Peru,82,casa,CASEB,Feira de Santana,BA,44052016,"Lingui�a Suina c/ EspinafreLingui�a Suina c/ Tomate
+                                                    SecoLingui�a Suina c/ Ervas finasAmbrosia
+                                                    PortuguesaCocada com NozesDoce de Figo em CaldaQueijo
+                                                    Edam InteiroGeleia de Pimenta Defumada UAIGeleia de
+                                                    pimentaCaf� Serra do Furriel Agroecol�gico ESPECIAL Torrado e
+                                                    mo�do 250g"
+131,Pedido Interrompido,19/08/2020 21:51:59,N�o pago,0,0.0,84.2,22.53,0.0,106.73,,Fernando de freitas,Avenida Dom Jos� Gaspar,269,301,Cora��o Eucar�stico,Belo Horizonte,MG,30535610,"Queijo Estepe FracionadoQueijo Reino FracionadoQueijo Edam
+                                                    Fracionado"
+88,Pedido Interrompido,06/06/2020 17:01:47,Boleto,0,330.49,247.68,82.81,0.0,330.49,,JS Defumados,Rua Francisco Ferreira Filho,52,ao lado 54,Flor de N�polis,S�o Jos�,SC,88106040,"Queijo Estepe FracionadoQueijo Reino FracionadoQueijo
+                                                    Gruyere Fracionado"
+23,Pedido Interrompido,21/09/2019 23:32:16,Cart�o de Cr�dito,3,501.03,501.03,0.0,0.0,501.03,,Ricardo Silva,Rua Porf�rio,214,,Cidade Nova S�o Miguel,S�o Paulo,SP,08042160,"Nata Sui�a PuraMussarela de B�falaAmbrosia
+                                                    PortuguesaCocada c/ ChocolateCocada com NozesCocada
+                                                    PuraDoce de Leite c/ AmeixaGoiabada CremosaQueijo Estepe
+                                                    FracionadoQueijo Reino Fracionado"
+81,Entrega Confirmada,29/05/2020 13:57:37,Cart�o de Cr�dito,1,96.3,64.5,31.8,0.0,96.3,,Taciana M Siqueira,Rodovia de Acesso a Serrania CP01,01,Caixa Postal 01,Cooperativa,Serrania,MG,37143000,Manta de BufalaQueijo Gruyere Fracionado
+42,Pedido Interrompido,23/01/2020 15:47:47,Cart�o de Cr�dito,3,1844.12,848.96,995.16,0.0,1844.12,,Camila Rios Bretas,rua 244,00,q1 lt28,recanto verde,Ceres,GO,76300000,"Lingui�a CuiabanaLingui�a Suina c/ BananaMarmelada Lata
+                                                    Gostinho da Inf�nciaAmbrosia PortuguesaCidra RaladaDoce
+                                                    de Laranja em CaldaDoce de Leite c/ AmeixaFigada de Corte
+                                                    Lata VerdeGeleia GoiabaGeleia de JabuticabaGeleia de
+                                                    UvaGoiabada 0% A��carGoiabada Casc�oGoiabada
+                                                    CremosaQueijo Reino FracionadoGeleia de Ameixa com
+                                                    pimentaGeleia de pimenta"
+74,Pedido Interrompido,22/05/2020 16:18:29,N�o pago,0,0.0,59.52,105.17,0.0,164.69,Email �:natasha0309amelia@gmail.com,Roselane de Oliveira Gomes,Rua curuauna,67,,S�o Jos�,Marituba,PA,67200000,Cocada com AmendoimQueijo Reino Fracionado
+292,Pedido Interrompido,30/06/2021 11:51:20,N�o pago,0,0.0,94.9,0.0,0.0,94.9,0,Filipe Freitas da Silva,Rua Joaquim Ambr�sio de Oliveira,1,,Santa Martinha,Ribeir�o das Neves,MG,33860400,Plano Ataca Varejo
+45,Pedido Interrompido,30/01/2020 00:40:55,Boleto,0,220.89,159.6,61.29,0.0,220.89,,Arnaldo Motta,Rua Osires,03,Q19 APT1301 ED MANOE,Jardim Renascen�a,S�o Lu�s,MA,65075775,Manta de Bufala
+100,Entrega Confirmada,26/06/2020 08:25:21,Boleto,0,104.31,79.8,24.51,0.0,104.31,"condominio mario de souza queiroz.....correio entregar escritorio da
+                                                    administra��o",jose roberto borzi,Rua Argentina,520,bl19ap.11 condominio,Vila Paulista,Limeira,SP,13484055,Manta de Bufala
+444,Pedido a Enviar - Pago,20/09/2022 13:13:25,Cart�o de Cr�dito,1,57.95,39.9,18.05,0.0,57.95,,RITA DE CASSIA ALVES DE SOUZA VALE,Rua Serra Negra,350,Casa,Jardim Panorama,Ipatinga,MG,35164240,Manta de Bufala
+147,Pedido Interrompido,02/10/2020 22:48:08,Boleto,0,319.53,146.4,173.13,0.0,319.53,,Veronica Guimar�es Gon�alves,Estrada Cachamorra,1093,QG lote 17,Campo Grande,Rio de Janeiro,RJ,23040150,Manta de BufalaGoiabada 0% A��car
+121,Pedido Interrompido,08/08/2020 10:45:16,N�o pago,0,0.0,76.83,52.15,0.0,128.98,,Fabiana Casarin,Rua F�bio Francisco Bordin Camargo,592,,Jardim Europa,Ourinhos,SP,19914305,Queijo Reino
+26,Pedido Interrompido,10/10/2019 15:33:47,Boleto,0,62.68,29.88,32.8,0.0,62.68,,elessandra honorato da luz,Rua Campina Grande,23,casa da dona Matilde,Parque Ipanema,Queimados,RJ,26321270,Ricota TemperadaDoce de Leite c/ Ameixa
+38,Entrega Confirmada,09/12/2019 15:30:42,Cart�o de Cr�dito,1,64.29,41.7,22.59,0.0,64.29,,Jose Augusto Fazio,Avenida Flamboyant,22,Bloco A ap 501,Norte (�guas Claras),Bras�lia,DF,71917000,Ricota Temperada
+102,Entrega Confirmada,29/06/2020 12:39:20,Cart�o de Cr�dito,1,188.2,156.4,31.8,0.0,188.2,,Matheus Gabriel Goncalves,Rua Tupi,227,,Santo Ant�nio,Arax�,MG,38182126,Lingui�a Cuiabana
+430,Pedido Interrompido,02/07/2022 10:23:55,Cart�o de Cr�dito,3,571.98,641.58,1074.36,0.0,1715.94,,Mauro Costanari,Rua Roberto Daher,1057,,Residencial Pedro Maia,Bebedouro,SP,14711588,"Lombo Canadense com Pimenta BiquinhoCocada com AmeixaCocada
+                                                    com AmendoimDoce de Leite c/ AmeixaDoce de Leite c/
+                                                    GoiabaCacha�a Nobre Minas de Rapadura com Banana 670mlLicor
+                                                    Fino de Amarula - Nobre Minas - 900mlKit Cesta Festiva Especial
+                                                    com Produtos de Minas"
+156,Pedido Interrompido,08/11/2020 02:28:00,Boleto,0,419.17,126.86,292.31,0.0,419.17,,RICARDO VIANNA GON�ALVES,Rua Coronel Paulo Malta Rezende,35,Apto 805,Barra da Tijuca,Rio de Janeiro,RJ,22631005,Lombo Canadense com Pimenta CalabresaSalame Italiano
+119,Entrega Confirmada,03/08/2020 11:44:47,Boleto,0,285.78,177.38,108.4,0.0,285.78,"Queria que chegasse antes do Dia dos Pais, pois � presente pro
+                                                    mineiro.",Cibelle Ravaglia,Rua Flor de Seda,18,C. Jardim das Flores,Jardim das Flores,Cotia,SP,06715380,Lombo Canadense com Provolone
+33,Entrega Confirmada,12/11/2019 13:02:27,Cart�o de Cr�dito,1,84.93,62.34,22.59,0.0,84.93,"BOA TARDE!
+                                                    GOSTARIA QUE A EMBALAGEM BEM LACRADA, SE POSSIVEL EMBALAGEM DE
+                                                    PRESENTE POIS � PRESENTE DE ANIVERS�RIO.
+                                                    PRECISO QUE CHEGUE ATE DIA 22 /11 NO M�XIMO.
+
+                                                    OBRIGADA
+
+                                                    ME AVISE QUALQUER IMPREVISTO ( 11) 999911696
+
+                                                    SELMA",Selma Torquete,Rua Ita�na do Sul,142,CASA 1,Cidade Continental,S�o Paulo,SP,03243040,Lombo Canadense com Provolone
+123,Entrega Confirmada,12/08/2020 12:05:14,Cart�o de Cr�dito,2,271.66,211.8,59.86,0.0,271.66,,Vivian Layber Piumbini,Rua Laura Loureiro das Neves,300,Casa,Muqui�aba,Guarapari,ES,29215330,Salaminho de Frango Defumado com Azeitonas
+462,Pedido Interrompido,09/02/2023 17:49:18,N�o pago,0,0.0,99.0,33.04,0.0,132.04,,Francismario Teles Tiano,Quadra 11 Conjunto C,20,casa,Sobradinho,Brasilia,DF,73040113,Mel Sache Puro
+96,Entrega Confirmada,18/06/2020 00:44:04,Cart�o de Cr�dito,3,212.58,144.23,68.35,0.0,212.58,,Carlos Eduardo Justino Reis,Rua Salustiano Jos� de Paula,343,,Nossa Senhora de F�tima,Resplendor,MG,35230000,Nata Sui�a Pura
+16,Entrega Confirmada,19/07/2019 09:03:51,Boleto,0,252.4,219.0,33.4,0.0,252.4,,enir pithan freire,Rua Amando de Oliveira,146,casa,Amamba�,Campo Grande,MS,7900537,Nata Sui�a Pura
+3,Pedido Interrompido,31/12/2018 17:26:08,N�o pago,0,0.0,280.3,175.4,0.0,455.7,,POTY SILVA DIAS,Avenida Juiz de Fora,19,trav142,Lagomar,Maca�,RJ,27966590,Nata Sui�a Pura
+118,Pedido Interrompido,22/07/2020 20:44:41,N�o pago,0,0.0,163.88,174.61,0.0,338.49,,Tatiana Sampaio Vidal,Rua Maria Quit�ria,108,Vila Martins,S�o Benedito,Santo Ant�nio de Jesus,BA,44441342,"Nata Sui�a PuraAmbrosia PortuguesaGeleia de Mocot� com leite
+                                                    condensadoCaf� Serra do Furriel Agroecol�gico ESPECIAL Torrado e
+                                                    mo�do 250g"
+30,Pedido Interrompido,25/10/2019 19:05:56,N�o pago,3,338.79,316.2,22.59,0.0,338.79,,JOSE LUIZ DA SILVA NETO,Avenida Manoel da N�brega,1370,ap24,Itarar�,S�o Vicente,SP,11320201,Mussarela de B�fala
+129,Pedido Interrompido,19/08/2020 13:23:30,Cart�o de Cr�dito,1,69.22,44.9,24.32,0.0,69.22,,Lucas Carvalho,Rua Pio XII,80,Apt 3,Santo Ant�nio,Contagem,MG,32010440,Mel Gourmet - Florada Silvestre
+37,Entrega Confirmada,07/12/2019 22:37:17,Cart�o de Cr�dito,2,121.29,89.7,31.59,0.0,121.29,,Paulo C�sar Cunha,Rua Jardim Alto do Itaigara,130,802,Itaigara,Salvador,BA,41815190,ENGENHO DA SERRA
+82,Entrega Confirmada,29/05/2020 21:25:15,Boleto,0,123.98,89.7,34.28,0.0,123.98,,Edmo Ara�jo,Avenida Doutor Jos� Hermano,303,Casa G5 N03,Jardim Vit�ria,Goi�nia,GO,74865090,ENGENHO DA SERRA
+14,Pedido Interrompido,10/07/2019 13:38:51,Cart�o de Cr�dito,3,332.4,299.0,33.4,0.0,332.4,,Jo�o Francisco de Assis,Rua Flavio,652,N/D,Centro,Urua�u,GO,74560000,ENGENHO DA SERRA
+424,Pedido Interrompido,30/06/2022 11:48:18,N�o pago,0,0.0,117.6,124.0,0.0,241.6,,LUCAS CUNHA RAMOS,Avenida Olinda,960,"Sl707, Lozandes Shop",Park Lozandes,Goi�nia,GO,74884120,ENGENHO DA SERRAENGENHO DA SERRA
+474,Pedido Interrompido,30/03/2023 11:50:25,Cart�o de Cr�dito,2,64.2,78.9,49.5,0.0,128.4,,matheus moraes,caico,327,casa,jardim parana,Astorga,PR,86730000,"ENGENHO DA SERRACacha�a Nobre Minas de Rapadura com Banana
+                                                    670ml"
+61,Entrega Confirmada,15/04/2020 19:05:56,Cart�o de Cr�dito,2,144.51,120.0,24.51,0.0,144.51,,Christian Belisario,Rua Flam�nio Ara�jo de Castro Rangel,47,casa 47,Vila Anglo Brasileira,S�o Paulo,SP,05061500,Manteiga da Ro�a
+142,Entrega Confirmada,08/09/2020 16:22:00,Boleto,0,144.51,120.0,24.51,0.0,144.51,,hamilton j r maciel,Rua 28 de Agosto,51,,Centro,Itarar�,SP,18460035,Manteiga da Ro�a
+460,Pedido Interrompido,02/02/2023 21:26:29,Boleto,0,76.66,48.0,28.66,0.0,76.66,,LUCINEI ANGELINI MARQUES,Rua Jos� Fernandes Teixeira Zuza,251,,Vila Rosa,Carapicu�ba,SP,06317270,Manteiga da Ro�a
+52,Entrega Confirmada,31/03/2020 21:29:29,Cart�o de Cr�dito,1,459.68,182.38,277.3,0.0,459.68,,Milton Leite da Silva Filho,Rua Jo�o de Sousa Dias,881,Ap.151,Campo Belo,S�o Paulo,SP,04618003,Manteiga da Ro�aPimenta BiquinhoPimenta Cumari UAI
+211,Pedido Interrompido,04/01/2021 19:47:43,Cart�o de Cr�dito,1,68.01,33.89,34.12,0.0,68.01,,Carlos Dias,Rua Professor Arthur de Macedo,55,,Caixa D'�gua,Salvador,BA,40323120,Direto de Minas - Caf� Especial (Pontua��o: 84)
+77,Entrega Confirmada,27/05/2020 11:08:53,Boleto,0,252.25,126.78,125.47,0.0,252.25,,Rosi Mariana Kaminski,Rua Mariano Torres,295,Bloco B - apto -161,Centro,Curitiba,PR,80060120,Cocada ZeroDoce de Leite Diet c/ CocoGeleia Goiaba
+20,Pedido Interrompido,29/08/2019 21:35:56,Cart�o de Cr�dito,1,175.62,80.52,95.1,0.0,175.62,,Celia lima,Rodovia do Sol,979,Ap 3 kamarica,Praia de Itaparica,Vila Velha,ES,29102023,Cocada c/ ChocolateDoce de Leche Padr�o Argentino
+431,Entrega Confirmada,02/07/2022 14:58:34,Cart�o de Cr�dito,3,63.13,76.8,112.58,0.0,189.38,,Marleide Luiz Dos Santos,Pra�a Princesa Isabel,152,SA2,Vila Paulista,Cubat�o,SP,11510270,Cocada com Abacaxi
+99,Pedido Interrompido,25/06/2020 02:24:31,Cart�o de Cr�dito,1,380.03,182.32,197.71,0.0,380.03,,JOAO PAULO CONCEICAO DA HORA,Rua Padre Anchieta,341,,Centro,S�o Vicente,SP,11310040,Cocada c/ Maracuj�Doce de Leite c/ AmendoimMel Bisnaga
+154,Entrega Confirmada,07/11/2020 17:26:14,Cart�o de Cr�dito,2,121.33,49.55,71.78,0.0,121.33,,ANA MARIA GOMES SANTOS FREIRE,Avenida Pl�nio Giosa,641,casa,Fanchem,Queimados,RJ,26385020,Cocada com Nozes
+53,Pedido Interrompido,03/04/2020 11:03:31,Cart�o de Cr�dito,3,244.37,170.64,73.73,0.0,244.37,,MARCOS AURELIO SILVA,JERONIMO RESTIVO,232,CASA,VILA PRADO,Ituverava,SP,14500000,Cocada Pura
+428,Pedido Interrompido,01/07/2022 11:45:24,Cart�o de Cr�dito,1,67.67,15.98,51.69,0.0,67.67,,antomat Avelino de Macedo,Rua Benedito Manteli,710,casa,Nova Viradouro,Viradouro,SP,14740000,Doce de Leite c/ Ameixa
+34,Pedido Interrompido,22/11/2019 06:24:18,Boleto,0,46.49,23.9,22.59,0.0,46.49,,Cl�udio Alves de Oliveira,Rua Flausina de Oliveira Rosa,683,Ed. Veleiro,Cai�ara,Praia Grande,SP,11706130,Doce de Leite Diet c/ Coco
+103,Entrega Confirmada,02/07/2020 16:23:45,Cart�o de Cr�dito,2,258.13,144.0,114.13,0.0,258.13,,Jos� Carlos Cecarelli,Rua Vict�rio Peneluppi,145,Condominio Colinas,Jardim das Colinas,S�o Jos� dos Campos,SP,12242150,Doce de Leche Padr�o ArgentinoGoiabada Casc�o
+55,Pedido Interrompido,14/04/2020 21:28:27,Cart�o de Cr�dito,1,52.08,17.8,34.28,0.0,52.08,,Nicolas Alexandre,Rua J�lio D'Acia Barreto,123,casa,Carvoeira,Florian�polis,SC,88040520,Goiabada Casc�o
+157,Pedido Interrompido,11/11/2020 18:10:28,Boleto,0,175.27,100.08,75.19,0.0,175.27,,Tatiane Ribeiro,Avenida Fagundes Filho,830,Apto 101 B,Vila Monte Alegre,S�o Paulo,SP,04304001,Goiabada Casc�o
+449,Pedido Interrompido,28/10/2022 17:09:56,N�o pago,0,0.0,15.21,46.31,0.0,61.52,,Marciane Marchetto,Rua Oswaldo Henrique Fornari,65,,Progresso,Bento Gon�alves,RS,95705174,Nozes Inteira
+58,Entrega Confirmada,15/04/2020 13:07:29,Boleto,0,110.28,76.0,34.28,0.0,110.28,,maria se lourdes gomes de oliveira,Rua Ol�mpia,83,apto 701,Jardim Alvorada,Londrina,PR,86062360,"Caf� Serra do Furriel Agroecol�gico ESPECIAL Notas de Especiarias,
+                                                    Caramelo, Chocolate"
+239,Entrega Confirmada,31/03/2021 12:10:12,Boleto,0,153.46,111.1,42.36,0.0,153.46,,Bruno Pereira,Rua Rio da Bagagem,85,32,Vila Nova Savoia,S�o Paulo,SP,03531060,Artesanal - Queijos Canastra Kit Duas Pe�as
+223,Entrega Confirmada,25/02/2021 17:45:18,Cart�o de Cr�dito,2,146.26,103.9,42.36,0.0,146.26,,CARLOS RIBEIRO DE FREITAS,Rua Comercindo Ant�nio de Oliveira,15,,Jardim Guanhembu,S�o Paulo,SP,04814080,Artesanal - Queijos Canastra Kit Duas Pe�as
+285,Pedido Interrompido,18/06/2021 15:59:39,Cart�o de Cr�dito,2,59.33,79.9,38.76,0.0,118.66,,Dirceu pontalti cortez,Rua Tapera�u Preto,51,,Jardim San Rafael II,Arapongas,PR,86703525,Artesanal - Queijos Canastra Kit Duas Pe�as
+265,Pedido Interrompido,07/05/2021 01:12:09,N�o pago,0,0.0,159.8,58.98,0.0,218.78,,Edson Farias da Concei��o Caetano,Rua Doutor Hugo Camargo,38,Casa,Cidade Industrial,Curitiba,PR,81450330,Artesanal - Queijos Canastra Kit Duas Pe�as
+222,Entrega Confirmada,12/02/2021 11:52:21,Cart�o de Cr�dito,1,114.36,75.6,38.76,0.0,114.36,,Lucas Aristeu Q de Lima M�ximo,Rua VF 25,16,Rua vf 25 qd 21 lt16,Vila Finsocial,Goi�nia,GO,74473210,Artesanal - Queijos Canastra Kit Duas Pe�as
+264,Entrega Confirmada,06/05/2021 21:29:13,Cart�o de Cr�dito,1,118.66,79.9,38.76,0.0,118.66,,Marcelo Santos Bittencourt,Pra�a Independ�ncia,130,Casa 90,S�o Jo�o,Jacare�,SP,12322570,Artesanal - Queijos Canastra Kit Duas Pe�as
+252,Pedido Interrompido,23/04/2021 17:32:56,Cart�o de Cr�dito,3,74.7,140.7,83.39,0.0,224.09,,Marcos Wendel Dos Reis Giuvea,Rua Infante Dom Henrique,21,Sobrado,Vila Guimar�es,Nova Igua�u,RJ,26088105,Artesanal - Queijos Canastra Kit Duas Pe�as
+184,Pedido Interrompido,11/12/2020 11:43:25,N�o pago,0,0.0,75.6,24.65,0.0,100.25,,Michelle Oliveira,Rua Delfin�polis,74,,Renascen�a,Belo Horizonte,MG,31130650,Artesanal - Queijos Canastra Kit Duas Pe�as
+289,Pedido Interrompido,24/06/2021 17:45:36,Boleto,0,112.94,79.9,0.0,0.0,79.9,,Rafael Semerene Farah,QRSW 2 Bloco B-4,105,,Setor Sudoeste,Bras�lia,DF,70675224,Artesanal - Queijos Canastra Kit Duas Pe�as
+441,Pedido Interrompido,25/08/2022 14:56:58,N�o pago,0,0.0,169.0,42.36,0.0,211.36,,Aline Os�rio Pereira Ramos de Lacerda,Rua Santo Ant�nio,27,,Niter�i,Volta Redonda,RJ,27283210,Kit Luz de Vela 5 Queijos
+308,Entrega Confirmada,11/08/2021 05:45:36,Boleto,0,231.99,180.6,51.39,0.0,231.99,,Luiz de Paula Guimar�es,Rua Val�ria Cicconi,301,,Vila Santa Rosa,Guaruj�,SP,11431110,Kit Luz de Vela 5 Queijos
+402,Pedido a Enviar - Pago,21/03/2022 13:39:46,Cart�o de Cr�dito,3,135.06,330.98,74.2,0.0,405.18,,Rafael Soares Pacheco,Rua Padre Ant�nio Vieira,283,casa,Centro,Belford Roxo,RJ,26112240,Kit Luz de Vela 5 QueijosKit Petisco
+361,Pedido Interrompido,07/01/2022 21:56:57,Cart�o de Cr�dito,2,502.87,768.0,237.74,0.0,1005.74,,Ian de Souza chagas,Rua 1,1,Qd 6 lt 2,Vila Conc�rdia,Goi�nia,GO,74770405,Kit Petisco
+400,Aguardando Pagamento,21/03/2022 10:29:39,Cart�o de Cr�dito,3,154.19,350.0,112.58,0.0,462.58,,Roberto Oliveira Lossio,Travessa Craviano,50,casa,Kennedy,Nova Igua�u,RJ,26020715,Kit PetiscoKit Comida de Buteco
+50,Entrega Confirmada,11/03/2020 09:53:54,Cart�o de Cr�dito,1,108.51,84.0,24.51,0.0,108.51,,Denise Maria de Castro Andrade,Rua Dona Ana Gonzaga,84,,Taquaral,Campinas,SP,13076140,Geleia de Mocot� Danny
+75,Entrega Confirmada,22/05/2020 16:40:07,Cart�o de Cr�dito,1,79.83,56.7,23.13,0.0,79.83,,ANA LUIZA DE SOUZA GALHARDO,Avenida Helvino Moraes,1149,Apto 71a,Vila S�o Jos�,Taubat�,SP,12070450,Geleia de Pimenta Defumada UAI
+113,Pedido Interrompido,18/07/2020 21:33:11,Boleto,0,136.53,113.4,23.13,0.0,136.53,"Deixar portaria de pedestres
+                                                    Fica perto terminal �nibus setor o",N�BIA MARIA PEREIRA DE Sousa,QNO 12 �rea Especial C,0,"Garden , bl K, 1408",Ceil�ndia Norte (Ceil�ndia),Bras�lia,DF,72255203,Geleia de Pimenta Defumada UAI
+79,Pedido Interrompido,28/05/2020 17:38:58,Cart�o de Cr�dito,3,158.44,98.58,59.86,0.0,158.44,,Sergio Odilon de Mattos Camara,Rua Augusto Jorge Br�ggemann,0377,,Areias,S�o Jos�,SC,88113823,Salame Italiano
+478,Pedido Interrompido,08/04/2023 19:26:57,Cart�o de Cr�dito,2,58.99,69.68,48.3,0.0,117.98,,Thiago Farias LUZ,Rua Santina Pereira de Mello,296,Casa 01,S�o Sebasti�o,Barra Mansa,RJ,27335320,Salame ItalianoKit Provoleto
+177,Pedido Interrompido,07/12/2020 05:38:26,Boleto,0,220.96,152.4,68.56,0.0,220.96,,Cintia mota cardeal,"Rua F , Loteamento Vazlandia",72,Caixa Postal 005,Centro,Amargosa,BA,45300000,Queijo Canastra do Mauro BRONZE
+116,Entrega Confirmada,21/07/2020 12:11:08,Boleto,0,289.28,255.0,34.28,0.0,289.28,,Fabricio Gomes,Rua Alfredo Gomes de Oliveira,247,Ap.703 Piazza di rom,Arma��o,Salvador,BA,41750090,Queijo Canastra do Mauro BRONZE
+333,Entrega Confirmada,20/09/2021 15:38:47,Cart�o de Cr�dito,1,173.01,120.0,53.01,0.0,173.01,,GERSON LUIZ CARLOS BRANCO,Rua Matias Jos� Bins,870,casa,Tr�s Figueiras,Porto Alegre,RS,91330290,Queijo Canastra do Mauro BRONZE
+109,Entrega Confirmada,17/07/2020 13:44:59,Boleto,0,248.71,170.0,78.71,0.0,248.71,,Leandro Tabosa do Nascimento,Rua Tenente Domingos de Brito,697,Ap 1101,Boa Viagem,Recife,PE,51021100,Queijo Canastra do Mauro BRONZEQueijo Canastra do Johne
+332,Entrega Confirmada,19/09/2021 10:32:40,Cart�o de Cr�dito,2,74.33,120.0,28.66,0.0,148.66,,Marco Riguzzi,Rua Pur�us,658,,Jardim Guedala,S�o Paulo,SP,05610001,Queijo Canastra do Mauro BRONZE
+241,Pedido Interrompido,02/04/2021 20:04:40,N�o pago,0,0.0,90.0,28.66,0.0,118.66,,Mauro Boueri Miranda,Quadra 105,9,Ap. 903A,Norte (�guas Claras),Bras�lia,DF,71915250,Queijo Canastra do Mauro BRONZE
+83,Entrega Confirmada,31/05/2020 09:36:04,Cart�o de Cr�dito,1,204.28,170.0,34.28,0.0,204.28,,Roberval Maur�cio Cardoso Rodrigues,Rua da Paz,310,Apto 702,Jardim dos Estados,Campo Grande,MS,79020250,Queijo Canastra do Mauro BRONZE
+71,Pedido Interrompido,08/05/2020 22:21:21,Cart�o de Cr�dito,3,229.28,170.0,59.28,0.0,229.28,,Valdemar Jos� Calgaro,Rua Andreas goelner,534,Casa,Boa uni�o,Estrela,RS,95880000,Queijo Canastra do Mauro BRONZEQueijo Canastra do Johne
+439,Entrega Confirmada,03/08/2022 18:08:36,Cart�o de Cr�dito,3,62.55,159.0,28.66,0.0,187.66,,Alex almeida de oliveira,Avenida das Arauc�rias,4530,peninsula bl D 1601,Sul (�guas Claras),Bras�lia,DF,71936250,Queijo Canastra do IVAIR Bronze Ordenha Manh�
+329,Entrega Confirmada,14/09/2021 13:43:02,Cart�o de Cr�dito,3,96.34,260.0,29.01,0.0,289.01,,ALEXANDRE ALVES ARCANJO,Rua Ministro Orozimbo Nonato,589,APT 1602 T3,Vila da Serra,Nova Lima,MG,34006053,"Queijo Canastra do IVAIR Bronze Ordenha Manh�Queijo Canastra do
+                                                    IVAIR Super Ouro Tarde"
+338,Entrega Confirmada,29/09/2021 10:54:26,Cart�o de Cr�dito,3,112.49,260.0,77.46,0.0,337.46,,Alexandre Magalh�es da Silveira,Avenida Rui Barbosa,60,1801,Flamengo,Rio de Janeiro,RJ,22250020,Queijo Canastra do IVAIR Bronze Ordenha Manh�
+344,Pedido Interrompido,21/10/2021 09:44:31,Boleto,1,194.64,130.0,64.64,0.0,194.64,,Anne de Azambuja Miranda,Rua Oleg�rio Mariano,619,casa,Jardim Guedala,S�o Paulo,SP,05612001,Queijo Canastra do IVAIR Bronze Ordenha Manh�
+365,Pedido Interrompido,24/01/2022 11:00:19,Boleto,0,163.85,130.0,33.85,0.0,163.85,,Ant�nio calvao,Rua prefeito Manoel Gon�alves,854,Clinica,Centro,Barra de S�o Francisco,ES,29800000,Queijo Canastra do IVAIR Bronze Ordenha Manh�
+84,Entrega Confirmada,01/06/2020 14:00:24,Cart�o de Cr�dito,1,373.27,322.0,51.27,0.0,373.27,Referencia- Condominio Graciliano Ramos,Carmen Silvia Buim Kian,Rua Sete de Setembro,2180,apto 804,Centro,Campo Grande,MS,79020310,"Queijo Canastra do IVAIR Bronze Ordenha Manh�Queijo Canastra do
+                                                    IVAIR Super Ouro TardeQueijo Canastra do Johne"
+368,Pedido Interrompido,24/01/2022 21:55:48,N�o pago,0,0.0,130.0,28.66,0.0,158.66,,Celio Ricardo,Rua General Orlando Geisel,289,202,Recreio dos Bandeirantes,Rio de Janeiro,RJ,22790280,Queijo Canastra do IVAIR Bronze Ordenha Manh�
+342,Pedido Interrompido,14/10/2021 20:42:10,Cart�o de Cr�dito,2,118.32,156.0,80.63,0.0,236.63,,Joao Carlos Reinaux Cordeiro,Rua Verbo Divino,1061,"Torre 7, Apt. 82A",Ch�cara Santo Ant�nio (Zona Sul),S�o Paulo,SP,04719002,"Queijo Canastra do IVAIR Bronze Ordenha Manh�Burrata de B�fala
+                                                    200g"
+339,Entrega Confirmada,29/09/2021 11:09:48,Cart�o de Cr�dito,1,212.05,130.0,82.05,0.0,212.05,,Laudenir Fernando Petroncini,Rua Pastor William Richard Schisler Filho,900,apto 1425,Itacorubi,Florian�polis,SC,88034100,Queijo Canastra do IVAIR Bronze Ordenha Manh�
+106,Entrega Confirmada,07/07/2020 15:09:49,Cart�o de Cr�dito,1,172.04,107.0,65.04,0.0,172.04,,Maria Helena Petrs Silva,Estrada da Cachoeira,300,Casa 40 - Rua C,Itaipava,Petr�polis,RJ,25745180,Queijo Canastra do IVAIR Bronze Ordenha Manh�
+369,Pedido Interrompido,25/01/2022 14:31:40,Cart�o de Cr�dito,3,52.89,130.0,28.66,0.0,158.66,,Mayra Kauffman,Avenida Doutor Lino de Moraes Leme,266,Apto 34,Vila Paulista,S�o Paulo,SP,04360000,Queijo Canastra do IVAIR Bronze Ordenha Manh�
+364,Entrega Confirmada,24/01/2022 09:49:16,Cart�o de Cr�dito,1,194.64,130.0,64.64,0.0,194.64,,Rodrigo Coppola Gutierrez,Rua Jacurici,73,apto 91 Bloco B,Itaim Bibi,S�o Paulo,SP,01453030,Queijo Canastra do IVAIR Bronze Ordenha Manh�
+367,Pedido Interrompido,24/01/2022 15:28:32,Cart�o de Cr�dito,1,149.0,130.0,19.0,0.0,149.0,,Tome Mauro Schmidt,Rua dos Pica Paus,1750,Cond. Roma Fav 60,Nova Uberl�ndia,Uberl�ndia,MG,38412641,Queijo Canastra do IVAIR Bronze Ordenha Manh�
+214,Entrega Confirmada,08/01/2021 11:11:42,Cart�o de Cr�dito,1,158.97,130.0,28.97,0.0,158.97,,alfredo libano soares,Avenida Flamboyants da Pen�nsula,1070,ap 1102,Barra da Tijuca,Rio de Janeiro,RJ,22776070,Queijo Canastra do IVAIR Super Ouro Tarde
+122,Entrega Confirmada,10/08/2020 08:51:13,Boleto,0,159.1,130.0,29.1,0.0,159.1,,Ana Carolina Pereira Sizer,Rua Natingui,604,apt 05,Vila Madalena,S�o Paulo,SP,05443000,Queijo Canastra do IVAIR Super Ouro Tarde
+216,Entrega Confirmada,09/01/2021 12:21:17,Cart�o de Cr�dito,3,194.75,130.0,64.75,0.0,194.75,,ANDREA VAZ DE SOUZA,SQS 213 Bloco E,403,403,Asa Sul,Bras�lia,DF,70292050,Queijo Canastra do IVAIR Super Ouro Tarde
+418,Entrega Confirmada,13/05/2022 16:05:48,PIX,0,329.01,300.0,29.01,0.0,329.01,,Antonio Rafael Junior,Rua Doutor Rocha,997,Apt 01,Centro,Pedro Leopoldo,MG,33250036,Queijo Canastra do IVAIR Super Ouro Tarde
+249,Entrega Confirmada,15/04/2021 16:37:36,Cart�o de Cr�dito,1,163.85,130.0,33.85,0.0,163.85,,ARTHUR HENRIQUE MUNIZ LOATT,Avenida Deputado Arnaldo Busato,210,Consult�rio sala 01,Centro,Santa Helena,PR,85892000,Queijo Canastra do IVAIR Super Ouro Tarde
+205,Entrega Confirmada,28/12/2020 14:44:30,Cart�o de Cr�dito,1,156.57,130.0,26.57,0.0,156.57,,BRUNO VASCONCELOS,Avenida Doutor Marco Paulo Simon Jardim,620,1702L,Piemonte,Nova Lima,MG,34006200,Queijo Canastra do IVAIR Super Ouro Tarde
+266,Entrega Confirmada,09/05/2021 11:35:53,Cart�o de Cr�dito,3,86.01,225.0,33.04,0.0,258.04,,CARLOS EDUARDO BARROS DE MENEZES,SQS 303 Bloco D,501,,Asa Sul,Bras�lia,DF,70336040,"Queijo Canastra do IVAIR Super Ouro TardeQueijo Canastra do
+                                                    Johne"
+192,Entrega Confirmada,18/12/2020 15:44:28,Cart�o de Cr�dito,3,258.59,225.0,33.59,0.0,258.59,,CLAUDIO CESAR HORWATH,Rua Soldado Jo�o de Oliveira,29,,Ch�cara Inglesa,S�o Paulo,SP,05140000,"Queijo Canastra do IVAIR Super Ouro TardeQueijo Canastra do
+                                                    Johne"
+326,Entrega Confirmada,14/09/2021 12:59:40,Cart�o de Cr�dito,3,102.89,280.0,28.66,0.0,308.66,,EDWARD TADEUSZ LAUNBERG,Rua Leonor Quadros,51,casa,Vila Tramontano,S�o Paulo,SP,05691020,Queijo Canastra do IVAIR Super Ouro Tarde
+150,Entrega Confirmada,28/10/2020 16:12:14,Boleto,0,152.53,130.0,22.53,0.0,152.53,,glauber rafael abreu cardoso,rua mariana,19,casa,s�o luiz,Varzel�ndia,MG,3945000,Queijo Canastra do IVAIR Super Ouro Tarde
+328,Pedido Interrompido,14/09/2021 13:38:31,N�o pago,0,0.0,140.0,28.66,0.0,168.66,,JARDEL ROCHA ITOCAZO,Rua da Sudelpa,264,Casa 33,Maresias,S�o Sebasti�o,SP,11628314,Queijo Canastra do IVAIR Super Ouro Tarde
+215,Entrega Confirmada,09/01/2021 09:02:18,Cart�o de Cr�dito,3,258.44,225.0,33.44,0.0,258.44,,jennifer dowek,Rua Alberto Wolf Teixeira,141,,S�o Conrado,Rio de Janeiro,RJ,22610390,"Queijo Canastra do IVAIR Super Ouro TardeQueijo Canastra do
+                                                    Johne"
+43,Entrega Confirmada,23/01/2020 21:10:30,Boleto,0,150.76,130.0,20.76,0.0,150.76,,Liliana Patr�cia Goulart Castro,Rua Cristino Ribeiro de Resende,40,Caixa postal 08,Centro,Tapira,MG,38185000,Queijo Canastra do IVAIR Super Ouro Tarde
+327,Entrega Confirmada,14/09/2021 13:24:44,Cart�o de Cr�dito,2,96.51,140.0,53.01,0.0,193.01,,marcelo veiga beckhausen,Avenida Bag�,919,1102,Petr�polis,Porto Alegre,RS,90460080,Queijo Canastra do IVAIR Super Ouro Tarde
+148,Entrega Confirmada,20/10/2020 18:32:23,Cart�o de Cr�dito,2,195.04,130.0,65.04,0.0,195.04,,Maria do Carmo Carvalho Aleixo,Avenida Jandira,550,92,Indian�polis,S�o Paulo,SP,04080003,Queijo Canastra do IVAIR Super Ouro Tarde
+423,Entrega Confirmada,24/06/2022 14:19:37,Cart�o de Cr�dito,1,178.66,150.0,28.66,0.0,178.66,Qual o peso da pe�a?,Maria Martins,Rua S�crates,409,74,Vila Sofia,S�o Paulo,SP,04671071,Queijo Canastra do IVAIR Super Ouro Tarde
+290,Entrega Confirmada,24/06/2021 23:57:29,Cart�o de Cr�dito,1,168.66,140.0,28.66,0.0,168.66,,Mar�lia Simonsen,Rua Agr�rio de Sousa,64,Casa,Jardim Paulistano,S�o Paulo,SP,01445010,Queijo Canastra do IVAIR Super Ouro Tarde
+284,Entrega Confirmada,17/06/2021 13:16:18,Boleto,0,204.64,140.0,64.64,0.0,204.64,,Milton Jos� Triano,Rua Gi�como Spatti,160,,Jardim Rosana,Araras,SP,13603075,Queijo Canastra do IVAIR Super Ouro Tarde
+174,Entrega Confirmada,06/12/2020 10:28:43,Cart�o de Cr�dito,3,400.07,328.0,72.07,0.0,400.07,,Norma V A de ARAUJO,Avenida Marechal Mascarenhas de Moraes,2716,,Imbiribeira,Recife,PE,51170000,"Queijo Canastra do IVAIR Super Ouro TardeKit Cesta Especial
+                                                    Direto de Minas"
+435,Entrega Confirmada,13/07/2022 22:29:01,Boleto,0,169.0,150.0,19.0,0.0,169.0,,Renato Campos Galuppo,Rua Andaluzita,136,701,Carmo,Belo Horizonte,MG,30310030,Queijo Canastra do IVAIR Super Ouro Tarde
+105,Pedido Interrompido,06/07/2020 12:28:22,Boleto,0,202.07,130.0,72.07,0.0,202.07,,Rodrigo Cavalcante Carlos de Carvalho,Rua Jo�o Balbi,983,"Ed. Hannover, Ap 140",Nazar�,Bel�m,PA,66060425,Queijo Canastra do IVAIR Super Ouro Tarde
+218,Entrega Confirmada,12/01/2021 13:57:03,Cart�o de Cr�dito,3,158.97,130.0,28.97,0.0,158.97,,Rodrigo Wagner,Avenida dos Estudantes,1946,Quartel do Bombeiro,Vila Aeroporto,S�o Jos� do Rio Preto,SP,15025310,Queijo Canastra do IVAIR Super Ouro Tarde
+217,Entrega Confirmada,12/01/2021 13:51:47,Boleto,0,299.07,260.0,39.07,0.0,299.07,,Rosana Mara Trevisan,Avenida Pandi� Cal�geras,109,,Jardim Shangri-la A,Londrina,PR,86070510,Queijo Canastra do IVAIR Super Ouro Tarde
+432,Entrega Confirmada,04/07/2022 15:27:05,Cart�o de Cr�dito,2,159.38,280.0,38.76,0.0,318.76,,TARSO FABIANI PEREIRA,Rua Nereu Ramos,423,ESPA�O VIA REGGIA,Centro,Ca�ador,SC,89500076,"Queijo Canastra do IVAIR Super Ouro TardeQueijo Canastra do
+                                                    Johne"
+209,Entrega Confirmada,29/12/2020 22:54:36,Cart�o de Cr�dito,3,156.57,130.0,26.57,0.0,156.57,,THIAGO FERREIRA CAMILLO E SILVA,Rua Buganville,966,Apto 105,Eldorado,Contagem,MG,32315090,Queijo Canastra do IVAIR Super Ouro Tarde
+85,Entrega Confirmada,04/06/2020 21:21:47,Boleto,0,282.53,260.0,22.53,0.0,282.53,,Thiago Forlenza,Rua Paran�,56,,Da Sa�de,Po�os de Caldas,MG,37701043,Queijo Canastra do IVAIR Super Ouro Tarde
+299,Pedido Interrompido,10/07/2021 21:18:17,Cart�o de Cr�dito,2,124.38,210.0,38.76,0.0,248.76,,carolina mayara,Rua Expedicion�rio Gumercindo da Silva,174,a,Alto Boqueir�o,Curitiba,PR,81850270,Queijo Canastra do Johne
+229,Pedido Interrompido,04/03/2021 14:15:20,Boleto,0,180.5,112.8,67.7,0.0,180.5,,Marcia Bryzynski,Rua Palmeiras,582,apto 607 B,�gua Verde,Curitiba,PR,80620110,Queijo Canastra do Johne
+269,Entrega Confirmada,16/05/2021 15:46:57,Cart�o de Cr�dito,1,348.38,264.0,84.38,0.0,348.38,,Patrimonial mil,Rua Jos� Pancetti,303,Edf orizon,Barra,Salvador,BA,40140420,Queijo Canastra do JohneKit Cesta Direto de Minas Variedades
+321,Pedido Interrompido,03/09/2021 13:09:55,Cart�o de Cr�dito,3,72.6,105.0,112.8,0.0,217.8,,Regina a de Xavier franca,Rua S�o Jo�o Batista,262,Casa,�gua Fria,Recife,PE,52121080,Queijo Canastra do Johne
+296,Pedido Interrompido,08/07/2021 23:11:27,Cart�o de Cr�dito,2,69.43,105.0,33.85,0.0,138.85,,Rosa Marly de assis,Rua Expedicion�rio Gumercindo da Silva,363,,Alto Boqueir�o,Curitiba,PR,81850270,Queijo Canastra do Johne
+330,Entrega Confirmada,14/09/2021 21:10:03,Boleto,0,114.15,90.0,24.15,0.0,114.15,,Gilberto Dantas,Rua Ministro Raul Fernandes,180,1103,Botafogo,Rio de Janeiro,RJ,22260040,Queijo Canastra do Johne (Metade)
+425,Entrega Confirmada,30/06/2022 18:55:12,Boleto,0,108.05,90.0,18.05,0.0,108.05,"Eu gostaria que tivesse um cart�o de mensagem com a seguinte
+                                                    mensagem:
+                                                    ?J� que voc� est� na �poca de comer queijo, aqui vai um para voc�,
+                                                    Piu! Uma forma de agradecimento por todas as coisas que me fez. Bom
+                                                    apetite!?",Lilith Diniz Portes,Rua Esp�rito Santo,977,Apto. 1102,Centro,Belo Horizonte,MG,30160033,Queijo Canastra do Johne (Metade)
+133,Entrega Confirmada,26/08/2020 09:18:48,Boleto,0,89.26,50.0,39.26,0.0,89.26,,Waldecir Ant�nio Seganfredo,Rua Amazonas,830,Ap 01,Centro,Entre Rios do Oeste,PR,85988000,Queijo Canastra do Johne (Metade)
+149,Pedido Interrompido,28/10/2020 16:05:22,Cart�o de Cr�dito,1,184.28,150.0,34.28,0.0,184.28,,Julia Zago Passos,Rua Bar�o de Itapoan,142,torre 1/ ap.403,Barra,Salvador,BA,40140060,Kit Canastra do Ivair + Mel Nectar da Canastra
+454,Pedido a Enviar - Pago,06/11/2022 10:40:28,Cart�o de Cr�dito,1,102.15,78.0,24.15,0.0,102.15,,angela giovanini,rua das mangueiras,41,,jardim primavera,Quirin�polis,GO,75860000,Burrata de B�fala 200g
+319,Pedido Interrompido,29/08/2021 03:47:29,Cart�o de Cr�dito,1,448.44,290.0,158.44,0.0,448.44,,Marcos Vinicius Moreira Reis,Rua Matilde Silva Lima,400,Sepetiba 201,Luzia,Aracaju,SE,49045083,"Cacha�a de Jambu com Rapadura 700 ml - Paj� JambuCacha�a Nobre
+                                                    Minas de Rapadura com Banana 670ml"
+472,Pedido Interrompido,27/03/2023 15:33:58,PIX,0,236.79,210.0,26.79,0.0,236.79,,Quintiliano Blumenschein,Rua 9 B,233,Residencial porto fino AP 801,Setor Oeste,Goi�nia,GO,74110120,Cacha�a de Jambu com Rapadura 700 ml - Paj� Jambu
+276,Pedido Interrompido,09/06/2021 01:37:46,Cart�o de Cr�dito,3,100.73,207.0,95.2,0.0,302.2,,emanoella bruneri abdalla,Rua A,156,,Residencial Solar da Chapada,Cuiab�,MT,78057606,"Chips de Provolone Recheado com Goiabada 350gQueijo Palito de
+                                                    Mussarela Temperada - 500gQueijo Trufado com Bacon
+                                                    600gQueijo Bom da Fazenda Trufado com Requeij�o 700gKit
+                                                    Queijo Provoleto com Lombo Defumado 650g"
+255,Entrega Confirmada,27/04/2021 21:48:51,Boleto,0,115.66,87.0,28.66,0.0,115.66,,Nanci Kamanchek Tavares,Avenida Norival Guilherme Vieira,265,,Ibituruna,Montes Claros,MG,39408046,"Queijo Trufado com Salame 600gKit Queijo Provoleto com Lombo
+                                                    Defumado 650g"
+273,Pedido Interrompido,31/05/2021 22:52:44,N�o pago,0,0.0,180.0,44.35,0.0,224.35,,distribuidora schaffer,Rua Al�cia M�ller,306,,Canudos,Novo Hamburgo,RS,93546580,P�o de Queijo Mineiro Recheado com Requeij�o 1kg
+464,Pedido Interrompido,25/02/2023 03:23:05,Cart�o de Cr�dito,1,118.42,96.0,22.42,0.0,118.42,,CLARISSA BRANDAO FREITAS,Rua Cajarana,80,a,Dom Cabral,Belo Horizonte,MG,30535350,Licor Fino de Amarula - Nobre Minas - 900ml
+455,Pedido a Enviar - Pago,07/11/2022 11:38:23,Boleto,0,66.45,48.4,18.05,0.0,66.45,,Claudio Campara Alves,Rua dos Tupis,457,sala 202,Centro,Belo Horizonte,MG,30190060,Direto de Minas - Caf� Torrado/Mo�do (Pontua��o: 84)
+440,Entrega Confirmada,04/08/2022 16:50:31,Boleto,0,269.53,219.0,50.53,0.0,269.53,Entregar para Tamiris,Alc corretora,Rua Estrela do Sul,273,,Santa Tereza,Belo Horizonte,MG,31010240,Kit Cesta Direto de Minas Variedades
+194,Entrega Confirmada,21/12/2020 14:47:33,Cart�o de Cr�dito,3,198.0,198.0,0.0,0.0,198.0,,Anabele Pires Santos,Rua Adalberto Soares,69,Casa,Madre Gertrudes,Belo Horizonte,MG,30512690,Kit Cesta Direto de Minas Variedades
+476,Pedido Interrompido,04/04/2023 14:44:24,Cart�o de Cr�dito,1,273.42,239.0,34.42,0.0,273.42,,Bruno Machado,Rua Volta Redonda,125,Bloco 16 AP 103,Industrial S�o Luiz,Contagem,MG,32073010,Kit Cesta Direto de Minas Variedades
+202,Pedido Interrompido,26/12/2020 00:11:38,Cart�o de Cr�dito,2,198.0,198.0,0.0,0.0,198.0,,Carlos FAUSTO DE CERQUEIRA SOARES,Rua Zamora,80,B,Parque Independ�ncia,S�o Paulo,SP,05880390,Kit Cesta Direto de Minas Variedades
+181,Entrega Confirmada,09/12/2020 16:38:02,Cart�o de Cr�dito,1,198.0,198.0,0.0,0.0,198.0,,�der de Melo Pereira,Avenida Nossa Senhora do Carmo,45,sala 801,Sion,Belo Horizonte,MG,30310000,Kit Cesta Direto de Minas Variedades
+458,Pedido Interrompido,24/11/2022 14:56:47,Cart�o de Cr�dito,2,122.47,219.0,25.93,0.0,244.93,,Helio Sena Silva Junior,Rua Adotivo Jos� Ferreira,300,casa,Monte Verde,Ribeir�o das Neves,MG,33883005,Kit Cesta Direto de Minas Variedades
+169,Entrega Confirmada,04/12/2020 09:36:21,Cart�o de Cr�dito,3,198.0,198.0,0.0,0.0,198.0,,Joedson Jardim Ramos,Rua Castelo Branco,134,deposito Copagaz,Fl�vio Garcia,Coxim,MS,79400000,Kit Cesta Direto de Minas Variedades
+185,Entrega Confirmada,11/12/2020 14:22:56,Boleto,0,198.0,198.0,0.0,0.0,198.0,,Jorge A . Wiendl,Rua L�lio Ferrari,140,,Jardim Itapu�,Piracicaba,SP,13402060,Kit Cesta Direto de Minas Variedades
+178,Pedido Interrompido,07/12/2020 21:03:40,N�o pago,0,0.0,198.0,0.0,0.0,198.0,,Jos� Mariano Neto,Avenida Manoel Morais,320,Ap. 1104,Mana�ra,Jo�o Pessoa,PB,58038230,Kit Cesta Direto de Minas Variedades
+451,Pedido Interrompido,31/10/2022 17:10:09,Cart�o de Cr�dito,2,122.47,219.0,25.93,0.0,244.93,,Leonardo Mariquito Coelho,Rua Botafogo,325,Bloco 51 apt 203,Urca (Justin�polis),Ribeir�o das Neves,MG,33933580,Kit Cesta Direto de Minas Variedades
+271,Entrega Confirmada,26/05/2021 09:24:04,Cart�o de Cr�dito,2,106.68,169.0,44.35,0.0,213.35,,Paula Roessing,Rua Francisco Caron,872,Casa,Pilarzinho,Curitiba,PR,82120200,Kit Cesta Direto de Minas Variedades
+182,Pedido Interrompido,09/12/2020 20:37:05,Boleto,0,198.0,198.0,0.0,0.0,198.0,,Paulo De Castro,Rua Aureanita Guimar�es Siqueira,28,Apt601,Ponta de Campina,Cabedelo,PB,58101632,Kit Cesta Direto de Minas Variedades
+477,Aguardando Pagamento,07/04/2023 14:35:42,Cart�o de Cr�dito,1,273.42,239.0,34.42,0.0,273.42,,Renata Teles,Rua Volta Redonda,125,bl 16 ap 103,Industrial S�o Luiz,Contagem,MG,32073010,Kit Cesta Direto de Minas Variedades
+234,Entrega Confirmada,19/03/2021 12:57:43,Boleto,0,198.0,198.0,0.0,0.0,198.0,"� um presente...Etiqueta de entrega do destinat�rio (mandar nota
+                                                    fiscal por meu zap):
+                                                    Ros�lia Gusm�o
+                                                    Rua Piranhas - 310 - ap 11 - Vila Floresta - Santo Andr� - SP -
+                                                    09050 080
+                                                    Se precisar, o telefone � de 11 95311-1009",S�rgio R B de Gusm�o,Avenida Embaixador Cavalcanti de Lacerda,322,casa,Jardim Bonfiglioli,S�o Paulo,SP,05591010,Kit Cesta Direto de Minas Variedades
+317,Pedido Interrompido,28/08/2021 00:54:42,Cart�o de Cr�dito,2,119.88,169.0,70.75,0.0,239.75,,Diogo augusto cavazzini,Rua A,5,Qd6,Morada da Serra,Cuiab�,MT,78058701,Kit Cesta Festiva Especial com Produtos de Minas
+212,Pedido Interrompido,05/01/2021 20:21:56,N�o pago,0,0.0,198.0,0.0,0.0,198.0,,Luiz Fernando Pontel de Oliveira,av 19 de maio,340,casa,centro,Cir�aco,RS,99970000,Kit Cesta Festiva Especial com Produtos de Minas
+293,Pedido Interrompido,30/06/2021 21:55:38,N�o pago,0,0.0,169.0,44.35,0.0,213.35,,osvaldo maugeri,Rua Pires da Mota,979,12,Aclima��o,S�o Paulo,SP,01529001,Kit Cesta Festiva Especial com Produtos de Minas
+355,Pedido Interrompido,20/12/2021 21:18:31,N�o pago,0,0.0,796.0,528.47,0.0,1324.47,,Blessed,Av Jo�o M Corr�a,32,Apto 2,Sander,Tr�s Coroas,RS,95660000,Kit Cesta Especial Direto de Minas
+429,Entrega Confirmada,02/07/2022 10:19:57,Cart�o de Cr�dito,3,89.84,219.0,50.53,0.0,269.53,ENTREGAR PARA MARCIO MESSIAS - TIO OGGO,Cristiano Kalks Firmino,Rua Capara�,291,,Monte Castelo,Contagem,MG,32285080,Kit Cesta Especial Direto de Minas
+191,Entrega Confirmada,15/12/2020 15:10:02,Boleto,0,198.0,198.0,0.0,0.0,198.0,"Se poss�vel, o saleme de pimenta biquinho, obrigado",Javan Pereira Lima,Avenida Ant�nio Lira,74,Ap 303,Tamba�,Jo�o Pessoa,PB,58039050,Kit Cesta Especial Direto de Minas
+267,Pedido Interrompido,10/05/2021 09:48:25,Cart�o de Cr�dito,1,219.5,190.6,28.9,0.0,219.5,Poderia colocar a ambrosia dentro da cesta?,Leila Mara Cantele,rua jos� vicente de almeida,1290,,aguas santas,Tiradentes,MG,36325000,Kit Cesta Especial Direto de Minas
+168,Entrega Confirmada,04/12/2020 05:20:54,Cart�o de Cr�dito,3,198.0,198.0,0.0,0.0,198.0,,Lu�s Fernando,Rua Jonas Beliz�rio,580,,Laranjeiras,Betim,MG,32676604,Kit Cesta Especial Direto de Minas
+325,Pedido Interrompido,08/09/2021 10:26:07,Cart�o de Cr�dito,3,90.35,169.0,102.06,0.0,271.06,,Nelma Cristina Evangelista,Rua Dom Lucas Obes,247,,Ipiranga,S�o Paulo,SP,04212020,Kit Cesta Especial Direto de Minas
+170,Entrega Confirmada,04/12/2020 11:01:40,Cart�o de Cr�dito,3,198.0,198.0,0.0,0.0,198.0,,Reginaldo Leite Teixeira,Rua Duod�cimo Rosado,745,Apto 802,Doze Anos,Mossor�,RN,59603020,Kit Cesta Especial Direto de Minas
+171,Entrega Confirmada,04/12/2020 15:03:12,Cart�o de Cr�dito,3,198.0,198.0,0.0,0.0,198.0,,Rodrigo Marcos de Jesus,Avenida Santo Ant�nio,388,AP 101 Bloco 2,Ch�cara dos Pinheiros,Cuiab�,MT,78080040,Kit Cesta Especial Direto de Minas
+356,Entrega Confirmada,21/12/2021 22:02:16,Cart�o de Cr�dito,3,81.12,199.0,44.35,0.0,243.35,"2 queijos canastra artesanal meia cura / 2 queijos napolitano kit
+                                                    com 4 queijos / 1 queijo mussarela tran�a temperada / 01 queijo
+                                                    mussarela palito puro.",albertina fernandes da cruz mello,angelo rossine,340,casa,vila clementina,Pariquera-A�u,SP,11930000,Kit Cesta Direto de Minas Personalizada (Monte a Sua)
+201,Pedido Interrompido,24/12/2020 15:01:51,N�o pago,0,0.0,198.0,0.0,0.0,198.0,,AMAURI JOSE GRANZOTTO,Rua Carlos Roberto Roquete Lima,480,Cond. Figueira I,Jardim Vista Alegre,S�o Jos� do Rio Preto,SP,15061696,Kit Cesta Direto de Minas Personalizada (Monte a Sua)
+197,Entrega Confirmada,22/12/2020 21:03:20,Cart�o de Cr�dito,3,198.0,198.0,0.0,0.0,198.0,"minha escolha
+                                                    01 queijo canastra artesanal meia cura 900 gramas
+                                                    01 queijo parmes�o 600 gramas
+                                                    01 queijo napolitano kit 4 queijos 600 gramas
+                                                    01 queijo mussarela tran�a ao vinho 600 gramas
+                                                    01 salaminho tipo italiano puro 450 gramas
+                                                    01 salaminho com azeitonas 450 gramas",Anderson Vasconcelos,Rua Ant�nio Raposo Tavares,233,,Dom Pedro I,Manaus,AM,6904072,Kit Cesta Direto de Minas Personalizada (Monte a Sua)
+195,Entrega Confirmada,22/12/2020 17:25:01,Cart�o de Cr�dito,3,198.0,198.0,0.0,0.0,198.0,"02 queijos Canastra Artesanel meia cura.
+                                                    01 queijo Napolitano.
+                                                    01 queijo Parmes�o.
+                                                    01 queijo Mussarela tra�a tradicional.
+                                                    01 queijo Mussarela tra�a temperada.",Antonio Augusto Andrade Santos,Rua Almiro Alves,33,casa,S�o Jo�o,Itaberaba,BA,46880000,Kit Cesta Direto de Minas Personalizada (Monte a Sua)
+228,Entrega Confirmada,04/03/2021 12:47:11,Cart�o de Cr�dito,3,198.0,198.0,0.0,0.0,198.0,"1 Goiabada Casc�o de Colher (650 g)
+                                                    1 Doce de Ab�bora c/ coco (400 g)
+                                                    1 Doce de Figo em Calda (650 g)
+                                                    1 Doce de Leite Puro (400 g)
+                                                    1 Queijo Canastra Artesanal Meia Cura (0,900 kg)
+                                                    1 Queijo Napolitano - Kit 4 queijos (600 g)",Bruno Guerson Peixoto,Pra�a Rep�blica do L�bano,74,Bloco D1B apto 304,Independ�ncia,Cachoeiro de Itapemirim,ES,29306380,Kit Cesta Direto de Minas Personalizada (Monte a Sua)
+225,Entrega Confirmada,26/02/2021 14:18:28,Cart�o de Cr�dito,2,184.14,198.0,0.0,13.86,184.14,Desconto diferente e falta colocar manteiga 500g,claudio da concei��o,Rua Lindolfo Color,87,Casa,Jardim Vila Formosa,S�o Paulo,SP,03460080,Kit Cesta Direto de Minas Personalizada (Monte a Sua)
+172,Entrega Confirmada,05/12/2020 13:26:06,Cart�o de Cr�dito,3,198.0,198.0,0.0,0.0,198.0,,Cristiano Araujo Primo,Rua Bar�o de S�o Borja,376,,Bairro Novo,Olinda,PE,53130000,Kit Cesta Direto de Minas Personalizada (Monte a Sua)
+176,Pedido Interrompido,06/12/2020 10:49:29,Cart�o de Cr�dito,3,300.53,198.0,102.53,0.0,300.53,,Cristiano Viana Manoel,Rua Jorge Veiga,100,BL04 AP102,Portuguesa,Rio de Janeiro,RJ,21920370,Kit Cesta Direto de Minas Personalizada (Monte a Sua)
+236,Entrega Confirmada,22/03/2021 08:36:28,Cart�o de Cr�dito,1,198.0,198.0,0.0,0.0,198.0,"1 COCADA CREMOSA (650G)
+                                                    1 DOCE DE LEITE PURO (400G)
+                                                    1 QUEIJO NAPOLITANO - KIT 4 QUEIJOS (600G)
+                                                    1 LOMBINHO CANADENSE PURO (450G)
+                                                    1 GELEIA DE PIMENTA DEFUMADA (250G)
+                                                    1 SALAMINHO C/ AZEITONAS (430G)",Daiane Neis Alves dos Santos,Avenida Irmaos Piccoli,267,pr�dio,Centro,Tangar�,SC,89642000,Kit Cesta Direto de Minas Personalizada (Monte a Sua)
+254,Entrega Confirmada,26/04/2021 23:07:04,Boleto,0,198.0,198.0,0.0,0.0,198.0,"Al�m dos dois produtos b�nus (1 snack cheese provolone desidratado
+                                                    80g e 1cafe gourmet direto de minas 250g), os meus 6 itens
+                                                    escolhidos s�o : 1 doce de leite puro (400g); 1 cocada cremosa
+                                                    (650g); 1 goiabada casc�o de colher (650g); 1 queijo canastra
+                                                    artesanal meia cura (0,900 kg); 1 queijo napolitano - kit 4 queijos
+                                                    (600g) e 1 cacha�a Vale da Canastra Ouro (670 ml) envelhecida em
+                                                    madeira/amarela",EDEWALDO FANTINI JUNIOR,Rua dos Suruis,169,Rua do Riad,Urup�,Ji-Paran�,RO,76900186,Kit Cesta Direto de Minas Personalizada (Monte a Sua)
+188,Entrega Confirmada,13/12/2020 16:03:03,Boleto,0,198.0,198.0,0.0,0.0,198.0,"MEUS PRODUTOS - QUEIJO MUSSARELLA TRAN�A TEMPERADO - 2 QUEIJO
+                                                    NAPOLITANO - QUEIJO PALITO PURO -2 QUEIJO PRMES�O",Eliane Canci,RUA ERNESTO GUERRA,284,,CENTRO,Taquaru�u do Sul,RS,98410000,Kit Cesta Direto de Minas Personalizada (Monte a Sua)
+200,Entrega Confirmada,24/12/2020 09:34:01,Cart�o de Cr�dito,1,357.71,215.8,141.91,0.0,357.71,"Produtos para a cesta
+                                                    1 doce de abobora com coco
+                                                    1 queijo napolitano
+                                                    1 queijo canastra artesanal meia cura
+                                                    1 mussarela tran�a temperada
+                                                    1 salaminho tipo italiano provides
+                                                    1 lombinho com pimenta biquinho
+
+                                                    Por favor inclua na cesta a goiabada cascao q estou companion
+                                                    separado nesta mesma transacao.
+                                                    Nao moro no Brasil e essa cesta � pro aniversario do meu pai, se
+                                                    precisarem entrar em contato, falar com meu irmao Tiago no 41 99631
+                                                    2294 ou no meu whatsapp +61410747970. Muito obrigada!",Franciele R Siscoutto,Rua Regina de F�lix Lima,742,Em frente a chacara,Divin�ia,Paranagu�,PR,83212400,Kit Cesta Direto de Minas Personalizada (Monte a Sua)
+256,Pedido Interrompido,28/04/2021 14:00:44,Cart�o de Cr�dito,3,66.0,198.0,0.0,0.0,198.0,"02 Queijos Canastra artesanal
+                                                    01 Queijo Napolitano - kit 4 queijos
+                                                    01 Salaminho tipo Italiano Puro
+                                                    01 Queijo Mu�arela Tran�a ao Vinho
+                                                    01 Lombinho com Pimenta Biquinho",Juliano Sartori Mendon�a,"Avenida Jos� Moraes de Almeida, 777",777,Quadra 1 Casa 16,Coa�u,Eus�bio,CE,61760907,Kit Cesta Direto de Minas Personalizada (Monte a Sua)
+206,Entrega Confirmada,28/12/2020 15:38:41,Boleto,0,198.0,198.0,0.0,0.0,198.0,"1 Queijo Napolitano - Kit 4 queijos (600 g)
+                                                    1 Queijo Canastra Artesanal Meia Cura (0,900 kg)
+                                                    1 Queijo Parmes�o (600 kg)
+                                                    1 Queijo Mussarela Tran�a ao Vinho (600 g)
+                                                    1 Lombinho Canadense Puro (450 g)
+                                                    1 Doce de Leite Puro (400 g)",JULIO M MORENO,Rua Marquesa de Santos,22,Ap.503,Laranjeiras,Rio de Janeiro,RJ,22221080,Kit Cesta Direto de Minas Personalizada (Monte a Sua)
+445,Pedido a Enviar - Pago,25/09/2022 13:06:25,Cart�o de Cr�dito,3,87.78,219.0,44.35,0.0,263.35,"doce de leite puro queijo canastra artesanal meia cura 900 gr
+                                                    mussarela tran�c tradicional mussarela trn�a vinho napolitano 4
+                                                    queijos salaminho italiano puro mais cheese e cafe",lazaro eustaquio da silva,QNO 2 Conjunto B,5,casa,Ceil�ndia Norte (Ceil�ndia),Bras�lia,DF,72250202,Kit Cesta Direto de Minas Personalizada (Monte a Sua)
+261,Entrega Confirmada,03/05/2021 13:21:13,Cart�o de Cr�dito,1,198.0,198.0,0.0,0.0,198.0,"1 Cocada Cremosa (650 g)
+                                                    1 Queijo Canastra Artesanal Meia Cura (0,900 kg)
+                                                    1 Queijo Napolitano - Kit 4 queijos (600 g)
+                                                    1 Queijo Mussarela Palito Puro (500 g)
+                                                    1 Salaminho Tipo Italiano Puro (450 g)
+                                                    1 Queijo Parmes�o (600 kg)",Letusa Valero,Rua da Catedral,499,,Jardim Residencial Viena,Indaiatuba,SP,13331683,Kit Cesta Direto de Minas Personalizada (Monte a Sua)
+193,Entrega Confirmada,19/12/2020 20:14:14,Cart�o de Cr�dito,3,232.65,198.0,34.65,0.0,232.65,"Produtos de escolha: 1 Doce de Leite Puro (400 g) ; 1 Goiabada
+                                                    Casc�o de Colher (650 g); 1 Queijo Mussarela Tran�a Tradicional (600
+                                                    g); 1 Queijo Canastra Artesanal Meia Cura (0,900 kg); 1 Salaminho c/
+                                                    Pimenta Biquinho (450 g; 1 Cacha�a Vale da Canastra Ouro (670 ml)
+                                                    Envelhecida em madeira / Amarela",Liene de Fatima Carvalho,rua paineiras,280,casa,Floresta,Campo Belo,MG,37270000,Kit Cesta Direto de Minas Personalizada (Monte a Sua)
+262,Entrega Confirmada,04/05/2021 22:33:25,Cart�o de Cr�dito,3,66.0,198.0,0.0,0.0,198.0,"Ol�, os produtos escolhidos s�o: goiabada casc�o de colher, doce de
+                                                    figo em calda, queijo parmes�o, queijo napolitano (kit 4 queijos),
+                                                    salaminho tipo italiano puro e queijo canastra artesanal meia cura.",Liliane Bazzo Nogueira Soares,Rua Paulo Centrone,444,,Jardim Am�rica,Mar�lia,SP,17505324,Kit Cesta Direto de Minas Personalizada (Monte a Sua)
+245,Pedido Interrompido,09/04/2021 07:51:37,N�o pago,0,0.0,198.0,0.0,0.0,198.0,"2 queijos canastra, 01 parmes�o, 01 napolitano, 01 Salaminho
+                                                    italiano puro e 01 lombo com azeitona.",Luciana de Oliveira Souza Mendon�a,"Avenida Jos� Moraes de Almeida, 777",777,Casa 16 quadra 1,Coa�u,Eus�bio,CE,61760907,Kit Cesta Direto de Minas Personalizada (Monte a Sua)
+307,Entrega Confirmada,09/08/2021 00:22:28,Transfer�ncia,0,0.0,169.0,44.35,0.0,213.35,"1 Doce de Leite Puro (400g)
+                                                    1 Queijo Canastra Artesanal Meia Cura (0,900 kg)
+                                                    1 Queijo Napolitano - Kit 4 queijos (600 g)
+                                                    1 Queijo Parmes�o Fresco (600 g)
+                                                    1 Queijo Mussarela Tran�a Tradicional (600 g)
+                                                    1 Queijo Mussarela Palito Condimentado (500 g)",Luc�lia Maria Cavalheiro,Rua Backer,380,Casa,Cambuci,S�o Paulo,SP,01541000,Kit Cesta Direto de Minas Personalizada (Monte a Sua)
+452,Pedido Interrompido,31/10/2022 19:19:20,Cart�o de Cr�dito,2,122.47,219.0,25.93,0.0,244.93,,Marcelio De Oliveira Fernandes,Rua Geraldo Loffi,320,Abaixo da caixa d'�gua,Viena (Justin�polis),Ribeir�o das Neves,MG,33944175,Kit Cesta Direto de Minas Personalizada (Monte a Sua)
+283,Entrega Confirmada,17/06/2021 13:08:22,Cart�o de Cr�dito,3,73.18,169.0,50.53,0.0,219.53,,MARIA DA GL�RIA TAVARES PESSOA,Rua dos Bandeirantes,929,Apt. 1602,Matatu,Salvador,BA,40260001,Kit Cesta Direto de Minas Personalizada (Monte a Sua)
+275,Entrega Confirmada,08/06/2021 22:56:52,Cart�o de Cr�dito,1,388.53,338.0,50.53,0.0,388.53,"Doce pastoso com leite
+                                                    Cocada cremosa
+                                                    Queijo napolitano
+                                                    Queijo canastra artesanal meia cura
+                                                    Queijo mussarela tran�a artesanal
+                                                    Salaminho tipo italiano",Nilva C�ndida de Oliveira Silva,Avenida Bernardo Say�o,1235,CAC Ve�culos,Centro,Inhumas,GO,75400483,Kit Cesta Direto de Minas Personalizada (Monte a Sua)
+457,Pedido Interrompido,11/11/2022 15:07:08,Cart�o de Cr�dito,3,107.02,219.0,102.06,0.0,321.06,,PAULO VINICIUS FREITAS,ESTRADA RJ 14,222,,MURIQUI,Mangaratiba,RJ,23870000,Kit Cesta Direto de Minas Personalizada (Monte a Sua)
+475,Pedido Enviado,31/03/2023 21:33:00,Cart�o de Cr�dito,1,264.93,239.0,25.93,0.0,264.93,,Renata Pimentel Oliveira,Avenida Tr�s,381,,Oitis,Contagem,MG,32141060,Kit Cesta Direto de Minas Personalizada (Monte a Sua)
+393,Entrega Confirmada,09/03/2022 09:19:12,Boleto,0,0.0,199.0,44.35,0.0,243.35,"1 doce de leite puro, 1 queijo canastra artesanal meia cura, 1
+                                                    geleia de pimenta vermelha, 1 goiabada casc�o de colher, 1 queijo
+                                                    mu�arela tran�a temperada, 1 salaminho tipo italiano puro",RH-PRO,Rua Tom� de Souza,845,SALA 201,Savassi,Belo Horizonte,MG,30140136,Kit Cesta Direto de Minas Personalizada (Monte a Sua)
+453,Pedido Interrompido,02/11/2022 18:40:17,Cart�o de Cr�dito,2,134.77,219.0,50.53,0.0,269.53,,Robson Goncalves Silva,Rua Ed�stio Pond�,115,APTO 1104B,Stiep,Salvador,BA,41770395,Kit Cesta Direto de Minas Personalizada (Monte a Sua)
+376,Pedido Interrompido,31/01/2022 20:18:07,Cart�o de Cr�dito,3,96.63,199.0,90.9,0.0,289.9,"TRATA-SE DE PRESENTE: COLOCAR COMO DESTINAT�RIO : REINALDO PIMENTA
+                                                    RIBEIRO
+                                                    1 Doce de Leite Puro (400 g)
+                                                    1 Queijo Canastra Artesanal Meia Cura (0,900 kg)
+                                                    1 Queijo Napolitano - Kit 4 queijos (600 g)
+                                                    1 Queijo Mussarela Palito Condimentado (500 g)
+                                                    1 Salaminho c/ Pimenta Calabresa (450 g)
+                                                    1 Cacha�a Vale da Canastra Ouro (670 ml) Envelhecida em madeira /
+                                                    Amarela",Rosilane Aparecida Pimenta Ribeiro,Avenida Oswaldo Alves Ara�jo,301,casa,Veneza,Ribeir�o das Neves,MG,33820272,Kit Cesta Direto de Minas Personalizada (Monte a Sua)
+189,Pedido Interrompido,14/12/2020 22:08:48,Boleto,0,198.0,198.0,0.0,0.0,198.0,"1 queijo napolitano, 1 queijo parmes�o,
+                                                    1 goiabada casc�o de colher
+                                                    1 geleia de pimenta amarelo
+                                                    1 queijo tran�a",Silvia Maria Limoeiro,Rua Prefeito Nho Galv�o,368,Casa,Centro,Galinhos,RN,59596000,Kit Cesta Direto de Minas Personalizada (Monte a Sua)
+294,Entrega Confirmada,05/07/2021 15:36:57,Boleto,0,213.35,169.0,44.35,0.0,213.35,"1 Doce de Leite Puro (400 g)
+                                                    1 Cocada Cremosa (650 g)
+                                                    1 Goiabada Casc�o de Colher (650 g)
+                                                    1 Doce de Ab�bora c/ coco (400 g)
+                                                    1 Doce de Figo em Calda (650 g)
+                                                    1 Cacha�a Vale da Canastra Ouro (670 ml) Envelhecida em madeira /
+                                                    Amarela
+
+                                                    Essa cesta � para presente. O nome da pessoa que ser� presenteada �
+                                                    Ana L�cia Massot.",Simone Vieira,Avenida Mem de S�,72,703,Centro,Rio de Janeiro,RJ,20230152,Kit Cesta Direto de Minas Personalizada (Monte a Sua)
+263,Entrega Confirmada,06/05/2021 12:07:00,Cart�o de Cr�dito,3,66.0,198.0,0.0,0.0,198.0,,Solange Duarte,Rua Geraldo Maielo,116,,Jardim Nova Ipanema,Sorocaba,SP,18071027,Kit Cesta Direto de Minas Personalizada (Monte a Sua)
+242,Entrega Confirmada,03/04/2021 14:08:14,Cart�o de Cr�dito,1,198.0,198.0,0.0,0.0,198.0,"1 Queijo Canastra Artesanal Meia Cura (0,900 kg)
+                                                    1 Goiabada Casc�o de Colher (650 g)
+                                                    1 Salaminho Tipo Italiano Puro (450 g)
+                                                    1 Cacha�a Vale da Canastra Ouro (670 ml)  Envelhecida em
+                                                    madeira / Amarela
+                                                    1 Doce de  Leite Puro (400 g)
+                                                    1 Queijo Napolitano - Kit 4 queijos (600 g)",Thiago blanch pires,SQN 205 Bloco H,603,,Asa Norte,Bras�lia,DF,70843080,Kit Cesta Direto de Minas Personalizada (Monte a Sua)
+238,Entrega Confirmada,23/03/2021 21:46:00,Boleto,0,198.0,198.0,0.0,0.0,198.0,"1 Doce de  Leite Puro (400 g)
+                                                    1 Cocada Cremosa (650 g)
+                                                    1 Goiabada Casc�o de Colher (650 g)
+                                                    1 Queijo Canastra Artesanal Meia Cura (0,900 kg)
+                                                    1 Queijo Mussarela Tran�a Tradicional (600 g
+                                                    1 geleia de pimenta vermelha",T�lio Ribeiro da Silva,Rua Eug�nio Gomes do Prado,60,Casa,Jardim da Cidade,Betim,MG,32604264,Kit Cesta Direto de Minas Personalizada (Monte a Sua)
+210,Entrega Confirmada,04/01/2021 11:16:11,Cart�o de Cr�dito,2,192.6,143.9,48.7,0.0,192.6,,Fabiana Fedrizzi,Avenida Rep�blica Argentina,1237,Sala 1010,Vila Izabel,Curitiba,PR,80620010,Artesanais da Canastra Tr�s tipos de Matura��o
+413,Pedido Interrompido,10/05/2022 00:50:06,Cart�o de Cr�dito,1,56.9,32.85,24.05,0.0,56.9,Aguardo envio!!,JADERSON LUIZ DE OLIVEIRA SANTOS,Rua Benedito Ferreira da Silva Sobrinho,120,escola caic,Nossa Senhora de Guadalupe,Pouso Alegre,MG,37550640,Kit Provoleto
+354,Entrega Confirmada,16/12/2021 09:57:26,Cart�o de Cr�dito,1,80.71,52.05,28.66,0.0,80.71,,Juliana Assol Ambiel,Rua Makoto Otaguro,56,,Jardim Esplanada,Indaiatuba,SP,13331516,Kit Provoleto
+438,Pedido Interrompido,18/07/2022 15:18:17,N�o pago,0,0.0,48.9,51.69,0.0,100.59,,Michelle Neves rocha,Rua Compositor Benedito Lacerda,45,,Centro,Maca�,RJ,27913000,Kit Provoleto
+465,Entrega Confirmada,02/03/2023 08:22:55,Boleto,0,164.6,99.0,65.6,0.0,164.6,,Daniel Carneiro da Cunha,Rua Lamartine Nogueira,1006,1006,centro,Vi�osa do Cear�,CE,62300000,Kit Snacks - LOW CARB Provolone Desidratado
+443,Pedido Interrompido,11/09/2022 10:03:21,N�o pago,0,0.0,890.0,204.48,0.0,1094.48,,Paulo C�sar Savioli Vendramim,Rua Visconde do Rio Branco,1315,,Centro,Dracena,SP,17900000,Kit Snacks - LOW CARB Provolone Desidratado
+479,Pedido Interrompido,09/04/2023 23:53:33,Cart�o de Cr�dito,1,86.05,61.9,24.15,0.0,86.05,,CRISTIANE MARIA DA SILVA,Avenida Jos� Maria da Silva,1700,BL30 AP31,Jaguar�,S�o Paulo,SP,05348020,"Kit Tran�as - 3 Tran�as: Pura, Temperada, ao Vinho"
+483,Aguardando Pagamento,15/04/2023 13:37:02,Boleto,0,1200.0,1200.0,0.0,0.0,1200.0,,Agmar Sandro de Siles,Rua Roberto Saint Martin,140,Casa,Cidade Nobre,Piumhi,MG,37925000,Cacha�a �guas de Minas DiamanteCacha�a �guas de Minas Ouro
+298,Pedido Interrompido,10/07/2021 13:12:16,N�o pago,0,0.0,19.9,0.0,0.0,19.9,0,Agmar S Siles,R Roberto S Martin,140,,Cidade Nobre,Piumhi,MG,37925000,Plano B�sico Varejo
+260,Pedido Interrompido,30/04/2021 10:16:54,N�o pago,0,0.0,19.9,0.0,0.0,19.9,,Teste Bling,Avenida Nossa Senhora do Carmo,123,,Sion,Belo Horizonte,MG,30310000,Plano B�sico Varejo
+278,Pedido Interrompido,15/06/2021 05:43:38,Cart�o de Cr�dito,1,19.9,19.9,0.0,0.0,19.9,0.00,Wave Teste Samuel,Avenida Nossa Senhora do Carmo,45,,Sion,Belo Horizonte,MG,30310000,Plano B�sico Varejo
+136,Pedido Interrompido,28/08/2020 18:05:44,Boleto,0,79.49,59.9,19.59,0.0,79.49,,Suporte Wave,Avenida Nossa Senhora do Carmo,45,,Sion,Belo Horizonte,MG,30310000,Teste B123
